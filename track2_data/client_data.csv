@@ -1,0 +1,36 @@
+client_id,name,industry,size,relationship_start,standard_rate_adjustment,client_manager,status
+1,Lee-Cook,Manufacturing,Large,2022-05-09,0.07,"Smith, J.",Prospective
+2,"Mahoney, Barrett and Alexander",Technology,Medium,2024-04-26,-0.17,"Martinez, C.",Active
+3,Newman Inc,Hospitality,Medium,2020-12-14,0.04,"Miller, S.",Inactive
+4,Crawford LLC,Energy,Medium,2021-08-17,-0.14,"Garcia, A.",Former
+5,"Nichols, Schultz and Lowery",Retail,Large,2024-09-20,0.16,"Miller, S.",Former
+6,"Jones, Krueger and Smith",Real Estate,Medium,2020-11-22,-0.15,"Davis, P.",Prospective
+7,"Foster, Atkinson and Dunn",Healthcare,Large,2024-04-02,-0.04,"Garcia, A.",Inactive
+8,Montgomery-Johnson,Healthcare,Small,2020-11-03,-0.14,"Jones, L.",Prospective
+9,Burke-Baker,Education,Enterprise,2024-12-20,-0.16,"Davis, P.",Active
+10,Serrano Ltd,Manufacturing,Enterprise,2023-11-03,-0.2,"Williams, R.",Inactive
+11,"Gilbert, Cunningham and Robertson",Finance,Small,2020-08-16,0.18,"Johnson, M.",Active
+12,"Boyle, Rasmussen and Marshall",Manufacturing,Medium,2021-01-05,-0.05,"Rodriguez, T.",Active
+13,"Miller, Ward and Lyons",Manufacturing,Large,2022-03-10,0.06,"Miller, S.",Former
+14,Thomas-Nunez,Manufacturing,Enterprise,2020-10-19,0.14,"Brown, D.",Prospective
+15,Anderson-Dudley,Retail,Medium,2021-11-13,0.1,"Garcia, A.",Inactive
+16,Ward PLC,Energy,Large,2023-03-02,-0.08,"Smith, J.",Active
+17,"Wilson, Jacobs and Gillespie",Finance,Large,2021-01-21,-0.0,"Rodriguez, T.",Prospective
+18,Anderson Ltd,Finance,Enterprise,2020-08-13,-0.19,"Jones, L.",Active
+19,Watson-Bradford,Manufacturing,Enterprise,2022-07-07,-0.06,"Martinez, C.",Prospective
+20,Reyes Inc,Hospitality,Small,2023-07-19,-0.08,"Smith, J.",Active
+21,Brennan Inc,Energy,Small,2024-10-03,0.1,"Martinez, C.",Inactive
+22,"Phillips, Aguilar and Morrison",Hospitality,Medium,2022-04-16,-0.18,"Martinez, C.",Prospective
+23,White-Ellis,Manufacturing,Large,2020-04-11,-0.16,"Williams, R.",Former
+24,Cameron-Ferguson,Retail,Medium,2022-04-10,0.2,"Williams, R.",Prospective
+25,Miller-Clark,Finance,Enterprise,2023-03-06,0.07,"Williams, R.",Inactive
+26,Briggs-Richardson,Education,Small,2024-07-10,-0.11,"Davis, P.",Former
+27,Davis-Davis,Entertainment,Enterprise,2020-07-03,0.09,"Garcia, A.",Prospective
+28,"Martin, Johnson and Archer",Hospitality,Small,2020-01-18,-0.12,"Smith, J.",Former
+29,Howell Inc,Finance,Large,2024-09-28,-0.13,"Jones, L.",Former
+30,Davidson-Terry,Energy,Small,2020-02-10,-0.11,"Brown, D.",Former
+31,Le LLC,Entertainment,Enterprise,2020-11-03,0.09,"Brown, D.",Prospective
+32,Espinoza and Sons,Hospitality,Medium,2023-07-05,0.2,"Martinez, C.",Prospective
+33,Robinson-Ward,Education,Enterprise,2023-06-22,-0.14,"Williams, R.",Inactive
+34,Fleming LLC,Hospitality,Large,2023-01-04,-0.09,"Williams, R.",Former
+35,"Harrison, Carter and Lucas",Real Estate,Large,2024-10-10,-0.19,"Martinez, C.",Former

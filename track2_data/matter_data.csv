@@ -1,0 +1,126 @@
+matter_id,client_id,name,type,practice_area,status,open_date,estimated_close_date,actual_close_date,estimated_value,actual_billed,collected_amount,complexity_score,responsible_partner
+1,15,Inverse mobile task-force,Regulatory,Real Estate,Closed,2022-11-11,2023-07-12,2023-08-12,280995,233609,222688,1.6,Noah Elliott
+2,3,Digitized interactive definition,Transactional,Litigation,Active,2023-07-16,2023-11-17,,931630,608178,443245,4.7,Kimberly Morris
+3,27,Upgradable intermediate parallelism,Investigation,Banking,Pending,2024-11-05,2025-06-05,,243964,0,0,3.8,David Williams
+4,16,Monitored methodical help-desk,Advisory,Employment,Active,2025-02-22,2026-07-15,,355826,182198,171228,4.9,Kimberly Morris
+5,33,Right-sized local middleware,Litigation,Tax,Pending,2024-09-20,2025-10-07,,368860,0,0,3.6,Mary Jones
+6,5,Sharable coherent structure,Litigation,Real Estate,Closed,2024-10-23,2026-03-30,2026-06-08,321289,282939,274477,2.8,David Williams
+7,9,Cross-platform 5thgeneration software,Transactional,Bankruptcy,Closed,2024-12-22,2025-04-05,2025-04-28,189523,169505,155926,1.0,Crystal Watkins
+8,12,Adaptive multi-state framework,Investigation,Intellectual Property,Active,2023-11-10,2024-04-09,,60725,36082,26043,3.2,Mary Jones
+9,8,Robust web-enabled archive,Investigation,Employment,Active,2022-11-23,2023-09-28,,13175,5156,3965,2.7,Janet Nguyen
+10,34,Reduced next generation architecture,Litigation,Tax,Pending,2024-08-10,2025-11-15,,212986,0,0,1.5,Janet Nguyen
+11,21,Re-engineered leadingedge Graphical User Interface,Transactional,Banking,Active,2024-11-28,2025-05-13,,108132,87909,68582,1.4,Alyssa Morales
+12,24,Upgradable tangible circuit,Investigation,Bankruptcy,On Hold,2024-06-15,2024-12-21,,497660,0,0,4.9,Tammy Mayer
+13,31,Quality-focused demand-driven hierarchy,Litigation,Bankruptcy,Closed,2024-08-06,2025-06-18,2025-05-15,278190,344254,328214,2.3,Kimberly Morris
+14,9,Function-based zero-defect pricing structure,Investigation,Corporate,On Hold,2025-02-01,2025-06-21,,183770,0,0,1.5,Noah Elliott
+15,26,Intuitive fresh-thinking middleware,Transactional,Tax,Pending,2024-12-03,2025-03-19,,162703,0,0,2.1,Alyssa Morales
+16,19,Focused bi-directional intranet,Regulatory,Employment,Pending,2024-08-27,2025-11-02,,228196,0,0,1.5,Scott Gonzalez
+17,15,Reverse-engineered hybrid leverage,Litigation,Mergers & Acquisitions,On Hold,2024-06-09,2024-10-02,,109476,0,0,1.6,Kimberly Morris
+18,9,Open-source didactic Graphical User Interface,Investigation,Corporate,Pending,2025-02-02,2025-06-01,,879873,0,0,4.6,Scott Gonzalez
+19,22,Exclusive analyzing approach,Transactional,Tax,Active,2024-02-13,2024-11-02,,206359,177156,146438,2.6,Brian Williams
+20,21,Quality-focused mobile benchmark,Regulatory,Banking,Active,2024-11-27,2025-09-07,,188483,153358,132916,1.2,Janet Nguyen
+21,15,Reactive full-range info-mediaries,Transactional,Employment,Closed,2022-09-04,2023-10-18,2023-08-03,753147,630075,598178,4.7,Janet Nguyen
+22,31,Profound fault-tolerant synergy,Investigation,Banking,Closed,2025-01-07,2026-05-17,2026-03-26,77020,95108,92892,1.1,Alyssa Morales
+23,33,Implemented heuristic time-frame,Regulatory,Employment,Pending,2024-04-30,2024-12-18,,480267,0,0,2.5,Scott Gonzalez
+24,18,Adaptive 5thgeneration array,Advisory,Real Estate,Closed,2024-02-23,2024-12-29,2025-01-29,371947,510606,466684,3.8,David Williams
+25,2,Streamlined mission-critical Internet solution,Transactional,Employment,On Hold,2024-10-07,2025-05-27,,414595,0,0,3.1,Scott Gonzalez
+26,1,Progressive bifurcated time-frame,Regulatory,Intellectual Property,Closed,2022-09-30,2023-09-12,2023-11-30,71234,89626,82241,1.3,David Williams
+27,2,Down-sized background initiative,Regulatory,Litigation,Closed,2025-01-06,2026-03-06,2026-06-29,27300,37268,34406,2.3,Noah Elliott
+28,23,Multi-channeled eco-centric core,Litigation,Bankruptcy,On Hold,2024-09-27,2025-07-31,,287889,0,0,3.1,David Williams
+29,25,Reverse-engineered well-modulated emulation,Transactional,Intellectual Property,On Hold,2023-04-20,2024-05-09,,118997,0,0,1.7,Crystal Watkins
+30,2,Assimilated bifurcated middleware,Litigation,Corporate,Closed,2024-12-21,2026-01-06,2026-03-23,291797,407345,375443,4.0,Tammy Mayer
+31,26,Down-sized well-modulated capability,Advisory,Real Estate,On Hold,2024-10-15,2026-03-28,,314665,0,0,2.1,Janet Nguyen
+32,7,Inverse bandwidth-monitored solution,Investigation,Employment,On Hold,2024-08-13,2025-10-10,,376172,0,0,2.2,Tammy Mayer
+33,19,Monitored local Local Area Network,Advisory,Mergers & Acquisitions,Pending,2023-01-23,2023-04-23,,184309,0,0,2.4,Mary Jones
+34,33,Realigned logistical paradigm,Regulatory,Banking,On Hold,2023-07-30,2024-04-29,,451384,0,0,4.6,Tammy Mayer
+35,26,Reactive intermediate solution,Regulatory,Banking,Closed,2024-11-30,2025-04-14,2025-04-26,469121,380212,370944,3.0,Scott Gonzalez
+36,17,Proactive contextually-based support,Transactional,Banking,Active,2022-11-19,2024-01-21,,99782,58564,43316,3.3,Noah Elliott
+37,29,Seamless content-based model,Advisory,Banking,Active,2024-10-05,2026-02-09,,76377,58137,46918,4.8,Brian Williams
+38,3,Monitored multi-state monitoring,Litigation,Real Estate,On Hold,2023-02-14,2024-05-29,,167350,0,0,3.9,Brian Williams
+39,14,Reduced demand-driven complexity,Regulatory,Tax,Pending,2023-10-31,2024-09-06,,808580,0,0,4.5,David Williams
+40,26,Organic bi-directional utilization,Advisory,Corporate,On Hold,2024-11-01,2025-12-21,,299872,0,0,3.3,Alyssa Morales
+41,3,Optimized holistic contingency,Transactional,Corporate,On Hold,2024-02-09,2024-11-27,,641253,0,0,3.4,Scott Gonzalez
+42,5,Expanded executive extranet,Advisory,Employment,Closed,2024-10-02,2025-05-16,2025-04-09,135333,110722,102946,3.4,Kimberly Morris
+43,6,Multi-layered composite Local Area Network,Advisory,Employment,Pending,2023-03-23,2024-07-21,,282689,0,0,1.8,Crystal Watkins
+44,21,Virtual didactic productivity,Transactional,Tax,Closed,2024-11-06,2025-11-09,2025-12-01,199709,186400,176778,3.0,Alyssa Morales
+45,28,Digitized motivating forecast,Investigation,Real Estate,Pending,2025-02-07,2025-09-10,,479109,0,0,3.0,David Williams
+46,18,Object-based discrete workforce,Litigation,Bankruptcy,On Hold,2024-09-26,2025-06-22,,194431,0,0,1.2,Mary Jones
+47,24,Vision-oriented encompassing algorithm,Advisory,Employment,Closed,2024-04-01,2025-06-25,2025-09-15,47821,40257,38316,1.2,Crystal Watkins
+48,3,Sharable coherent approach,Transactional,Employment,On Hold,2022-10-19,2023-07-16,,776853,0,0,4.0,Tammy Mayer
+49,26,Customizable eco-centric conglomeration,Transactional,Litigation,On Hold,2025-01-23,2026-05-14,,192690,0,0,2.0,Crystal Watkins
+50,15,Front-line executive protocol,Litigation,Bankruptcy,On Hold,2024-12-02,2025-04-05,,101273,0,0,4.1,Kimberly Morris
+51,29,Diverse intermediate software,Transactional,Corporate,Active,2025-01-25,2025-11-16,,181436,56547,48204,1.9,Janet Nguyen
+52,5,Versatile bi-directional ability,Litigation,Real Estate,On Hold,2025-01-11,2026-03-14,,189236,0,0,3.8,Noah Elliott
+53,7,Right-sized context-sensitive access,Transactional,Mergers & Acquisitions,Active,2024-10-08,2025-08-12,,51997,21830,19220,3.5,Tammy Mayer
+54,1,Switchable background capability,Litigation,Employment,Active,2023-06-11,2024-05-30,,260716,92582,74362,2.7,Mary Jones
+55,30,Compatible client-driven attitude,Transactional,Litigation,Active,2022-11-04,2023-04-08,,298202,57257,41740,3.0,Alyssa Morales
+56,8,Extended value-added function,Litigation,Tax,Closed,2024-08-16,2025-06-03,2025-05-29,712966,750006,721548,4.5,Brian Williams
+57,5,Function-based heuristic middleware,Investigation,Intellectual Property,Active,2024-10-25,2025-06-10,,232495,137950,102453,4.4,Kimberly Morris
+58,13,Digitized context-sensitive contingency,Investigation,Tax,On Hold,2024-08-25,2025-09-28,,216550,0,0,1.7,Mary Jones
+59,10,Synergized analyzing benchmark,Litigation,Banking,On Hold,2024-05-31,2025-07-12,,50855,0,0,2.5,Noah Elliott
+60,14,Synergistic upward-trending support,Transactional,Litigation,Closed,2025-02-17,2025-08-10,2025-08-18,911551,995127,930994,4.7,Scott Gonzalez
+61,30,Seamless local utilization,Regulatory,Banking,Pending,2024-04-12,2025-01-06,,377981,0,0,4.9,Janet Nguyen
+62,17,Networked empowering attitude,Investigation,Tax,Closed,2024-05-01,2025-10-03,2025-07-23,415521,512016,463847,4.8,David Williams
+63,16,Customer-focused optimizing neural-net,Litigation,Real Estate,Active,2024-07-26,2024-11-15,,268647,233162,186478,3.8,Mary Jones
+64,14,Configurable cohesive Graphical User Interface,Litigation,Banking,On Hold,2023-03-11,2024-06-23,,149844,0,0,1.1,Brian Williams
+65,13,Re-contextualized full-range challenge,Transactional,Tax,On Hold,2023-07-01,2023-10-27,,288172,0,0,2.4,David Williams
+66,22,Quality-focused bi-directional projection,Investigation,Intellectual Property,Active,2023-09-21,2024-11-07,,409229,76728,57396,2.9,Brian Williams
+67,30,Front-line maximized array,Transactional,Mergers & Acquisitions,Closed,2024-11-12,2025-11-30,2025-11-12,287326,300340,287893,2.6,Mary Jones
+68,2,Fundamental regional focus group,Litigation,Mergers & Acquisitions,Active,2024-05-26,2024-10-30,,264143,123995,87295,3.0,David Williams
+69,17,Configurable static task-force,Litigation,Tax,Closed,2024-08-30,2025-02-13,2025-01-26,357282,308459,278175,3.7,Kimberly Morris
+70,5,Enhanced discrete orchestration,Investigation,Tax,Pending,2024-11-14,2025-12-27,,333176,0,0,3.2,Brian Williams
+71,17,Business-focused composite productivity,Transactional,Litigation,Closed,2024-04-08,2025-06-10,2025-09-21,473113,588939,566217,2.8,Kimberly Morris
+72,13,Virtual cohesive extranet,Advisory,Real Estate,Pending,2023-05-05,2024-08-28,,154964,0,0,3.6,David Williams
+73,3,Monitored modular superstructure,Advisory,Corporate,On Hold,2022-11-07,2023-12-13,,675058,0,0,4.8,Noah Elliott
+74,18,Devolved real-time open architecture,Transactional,Corporate,Active,2023-09-16,2024-02-14,,950009,104360,93024,5.0,Noah Elliott
+75,30,Quality-focused incremental concept,Regulatory,Corporate,Active,2024-07-17,2024-11-21,,520860,363687,319247,4.5,Brian Williams
+76,6,Customizable actuating functionalities,Regulatory,Corporate,On Hold,2024-04-19,2025-06-10,,606235,0,0,3.1,Tammy Mayer
+77,8,Ameliorated multi-state project,Transactional,Intellectual Property,On Hold,2024-03-29,2024-12-08,,78968,0,0,4.4,David Williams
+78,7,Open-source bandwidth-monitored access,Advisory,Tax,Pending,2024-06-05,2024-12-18,,149623,0,0,1.6,Noah Elliott
+79,18,Re-contextualized systemic data-warehouse,Transactional,Mergers & Acquisitions,On Hold,2025-01-10,2026-03-10,,412069,0,0,4.5,Scott Gonzalez
+80,35,Compatible 4thgeneration access,Regulatory,Litigation,Active,2025-02-05,2025-05-27,,479916,116358,102827,2.9,Tammy Mayer
+81,9,Switchable homogeneous extranet,Transactional,Tax,Active,2025-01-17,2026-05-22,,228769,199490,140278,2.9,Brian Williams
+82,22,Versatile stable synergy,Regulatory,Litigation,Pending,2023-08-12,2024-04-05,,44040,0,0,1.7,Scott Gonzalez
+83,17,Automated transitional pricing structure,Regulatory,Litigation,Active,2022-08-10,2023-04-10,,649785,263722,194605,4.1,Scott Gonzalez
+84,8,Up-sized leadingedge forecast,Litigation,Real Estate,On Hold,2022-07-19,2023-11-30,,407061,0,0,3.8,Tammy Mayer
+85,31,Total 6thgeneration framework,Advisory,Employment,On Hold,2023-09-21,2024-04-30,,701412,0,0,4.0,Brian Williams
+86,30,Team-oriented solution-oriented archive,Advisory,Real Estate,Pending,2023-04-02,2024-01-06,,134918,0,0,2.7,Tammy Mayer
+87,28,Devolved client-server flexibility,Investigation,Banking,Active,2024-05-22,2024-12-18,,644977,442436,416765,3.7,David Williams
+88,9,Upgradable upward-trending analyzer,Regulatory,Real Estate,On Hold,2025-02-05,2025-08-20,,381789,0,0,2.5,Scott Gonzalez
+89,2,Upgradable bandwidth-monitored focus group,Litigation,Real Estate,Pending,2025-02-23,2025-11-14,,107627,0,0,3.8,Noah Elliott
+90,21,User-friendly solution-oriented system engine,Litigation,Real Estate,Active,2025-02-13,2025-08-30,,619179,343502,321179,3.3,Kimberly Morris
+91,5,Switchable intermediate intranet,Litigation,Real Estate,Pending,2025-02-03,2026-04-22,,289272,0,0,2.8,Noah Elliott
+92,25,Implemented fresh-thinking knowledge user,Transactional,Corporate,Pending,2023-10-05,2024-05-22,,226105,0,0,3.4,Janet Nguyen
+93,10,Monitored directional definition,Transactional,Employment,Active,2024-02-04,2025-01-14,,201933,153023,143824,3.6,David Williams
+94,10,Exclusive demand-driven open system,Investigation,Real Estate,Active,2023-12-06,2024-12-13,,36264,15736,11485,1.5,Noah Elliott
+95,29,Customizable zero tolerance knowledge user,Advisory,Real Estate,Pending,2024-10-28,2025-03-13,,386269,0,0,2.4,Tammy Mayer
+96,13,Total high-level Local Area Network,Investigation,Banking,Active,2022-11-19,2024-02-28,,662079,287135,248824,3.4,Noah Elliott
+97,16,Profit-focused asymmetric project,Regulatory,Intellectual Property,Active,2024-08-09,2025-02-28,,248842,142619,106252,3.6,David Williams
+98,16,Synchronized multi-tasking function,Regulatory,Tax,Closed,2023-06-05,2024-10-21,2024-10-29,128999,127715,121651,3.4,Tammy Mayer
+99,4,Extended bifurcated portal,Advisory,Employment,Closed,2024-05-28,2025-05-23,2025-08-11,451652,427628,412384,3.0,Scott Gonzalez
+100,12,Intuitive background Graphic Interface,Advisory,Banking,Active,2025-02-08,2026-05-06,,389160,229497,168242,4.4,David Williams
+101,7,Quality-focused local application,Investigation,Bankruptcy,On Hold,2024-06-16,2025-06-06,,180375,0,0,2.1,Tammy Mayer
+102,35,Profound bottom-line utilization,Regulatory,Intellectual Property,On Hold,2024-11-01,2025-04-25,,465843,0,0,3.5,Brian Williams
+103,10,Automated bottom-line methodology,Advisory,Banking,Closed,2024-09-06,2025-04-29,2025-07-05,421029,455449,446037,3.8,Kimberly Morris
+104,7,Programmable empowering moderator,Investigation,Employment,Pending,2024-10-05,2025-09-26,,159048,0,0,2.9,Kimberly Morris
+105,14,Quality-focused scalable customer loyalty,Advisory,Bankruptcy,Closed,2023-08-05,2024-02-14,2024-02-15,162368,198281,191176,4.9,Kimberly Morris
+106,35,Business-focused local artificial intelligence,Advisory,Real Estate,Active,2024-12-10,2025-06-15,,736909,466903,402389,4.3,Noah Elliott
+107,1,Switchable asynchronous task-force,Transactional,Bankruptcy,On Hold,2022-09-05,2023-03-01,,193504,0,0,2.8,Kimberly Morris
+108,4,Implemented human-resource website,Advisory,Real Estate,Pending,2023-07-11,2024-02-03,,258924,0,0,1.3,Tammy Mayer
+109,5,Phased attitude-oriented conglomeration,Regulatory,Banking,Active,2024-12-16,2025-06-10,,426437,344780,305702,3.2,Tammy Mayer
+110,31,Digitized non-volatile toolset,Advisory,Bankruptcy,Closed,2022-07-26,2023-07-28,2023-09-22,204054,196451,179714,1.8,Kimberly Morris
+111,25,Down-sized 24/7 monitoring,Advisory,Litigation,On Hold,2024-08-11,2025-09-07,,22975,0,0,4.5,Alyssa Morales
+112,32,Multi-tiered leadingedge website,Litigation,Tax,Closed,2024-07-21,2024-11-05,2024-11-08,67994,89267,85405,1.0,Kimberly Morris
+113,14,Seamless 6thgeneration open system,Litigation,Bankruptcy,Closed,2023-04-30,2024-08-14,2024-12-13,577839,741089,699610,3.4,David Williams
+114,23,Triple-buffered attitude-oriented model,Transactional,Mergers & Acquisitions,On Hold,2022-10-08,2024-03-23,,186869,0,0,1.3,Scott Gonzalez
+115,29,Managed logistical hardware,Transactional,Litigation,On Hold,2024-12-18,2025-12-27,,68121,0,0,1.6,Brian Williams
+116,5,Configurable motivating concept,Advisory,Employment,Active,2024-10-17,2026-02-10,,349572,171178,125281,3.0,Scott Gonzalez
+117,27,Virtual radical capability,Advisory,Employment,Closed,2023-05-18,2024-03-20,2024-04-15,163416,154852,146053,1.1,David Williams
+118,5,Open-source radical benchmark,Investigation,Employment,On Hold,2025-01-25,2026-05-20,,201459,0,0,3.8,Scott Gonzalez
+119,11,Exclusive didactic encoding,Advisory,Real Estate,Pending,2024-09-26,2025-12-02,,109915,0,0,2.5,Kimberly Morris
+120,14,Persevering bottom-line moderator,Advisory,Real Estate,Pending,2024-07-03,2024-10-21,,79092,0,0,4.3,Brian Williams
+121,24,Team-oriented well-modulated service-desk,Regulatory,Tax,On Hold,2024-03-24,2025-07-17,,75296,0,0,3.0,Mary Jones
+122,2,Multi-lateral real-time orchestration,Investigation,Corporate,Active,2024-08-24,2025-01-01,,145105,48363,41852,1.0,Scott Gonzalez
+123,18,Multi-lateral motivating initiative,Litigation,Bankruptcy,Pending,2024-08-04,2025-02-10,,54517,0,0,1.9,Tammy Mayer
+124,28,Digitized even-keeled encryption,Investigation,Mergers & Acquisitions,Pending,2024-07-27,2025-10-25,,48300,0,0,2.7,Noah Elliott
+125,9,Ameliorated exuding alliance,Regulatory,Mergers & Acquisitions,Closed,2025-02-24,2026-04-05,2026-02-17,187703,158799,149926,1.5,Tammy Mayer

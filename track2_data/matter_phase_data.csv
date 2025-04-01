@@ -1,0 +1,622 @@
+phase_id,matter_id,name,status,planned_start,planned_end,actual_start,actual_end,planned_hours,actual_hours,responsible_attorney
+1,1,Compliance Review,Completed,2022-11-11,2023-01-15,2022-11-11,2023-01-19,224,258,Noah Elliott
+2,1,Gap Analysis,Completed,2023-01-06,2023-03-16,2023-01-06,2023-03-09,224,306,Noah Elliott
+3,1,Remediation Plan,Completed,2023-03-16,2023-05-09,2023-03-16,2023-05-14,224,294,Noah Elliott
+4,1,Implementation,Delayed,2023-05-08,2023-06-27,2023-05-22,2023-07-01,224,0,Noah Elliott
+5,1,Monitoring,Completed,2023-06-19,2023-08-09,2023-06-19,2023-07-26,224,308,Noah Elliott
+6,2,Due Diligence,Completed,2023-07-16,2023-08-20,2023-07-16,2023-08-25,931,815,Kimberly Morris
+7,2,Negotiation,Completed,2023-08-16,2023-09-21,2023-08-16,2023-09-28,931,1097,Laura Davis
+8,2,Documentation,Completed,2023-09-21,2023-10-20,2023-09-21,2023-10-29,931,1035,Kimberly Morris
+9,2,Closing,Delayed,2023-10-20,2023-11-15,2023-11-04,2023-11-21,931,0,Laura Davis
+10,3,Document Collection,Planned,2024-11-05,2024-12-25,,,195,0,Alyssa Stanton
+11,3,Document Review,Planned,2024-12-24,2025-02-09,,,195,0,Christopher Graves
+12,3,Interviews,Planned,2025-02-09,2025-03-23,,,195,0,David Williams
+13,3,Analysis,Planned,2025-03-23,2025-04-30,,,195,0,David Williams
+14,3,Report Preparation,Planned,2025-04-29,2025-06-02,,,195,0,David Williams
+15,4,Research,In Progress,2025-02-22,2025-06-23,2025-02-22,,284,391,Sandy Price
+16,4,Analysis,Planned,2025-06-23,2025-10-12,,,284,0,Brian Barnes
+17,4,Draft Opinion,Planned,2025-10-10,2026-01-21,,,284,0,Christopher Graves
+18,4,Client Review,Planned,2026-01-11,2026-04-22,,,284,0,Sandy Price
+19,4,Finalization,Planned,2026-04-22,2026-07-12,,,284,0,Brian Barnes
+20,5,Case Assessment,Planned,2024-09-20,2024-12-09,,,245,0,Mary Jones
+21,5,Discovery,Planned,2024-12-09,2025-02-20,,,245,0,Gary Nelson
+22,5,Motion Practice,Planned,2025-02-20,2025-04-28,,,245,0,Rebecca Boyd
+23,5,Trial Preparation,Planned,2025-04-28,2025-06-27,,,245,0,Gary Nelson
+24,5,Trial,Planned,2025-06-27,2025-08-19,,,245,0,Gary Nelson
+25,5,Appeal,Planned,2025-08-19,2025-10-04,,,245,0,Gary Nelson
+26,6,Case Assessment,Completed,2024-10-23,2025-02-24,2024-10-23,2025-02-02,214,196,David Williams
+27,6,Discovery,Delayed,2025-02-24,2025-06-18,2025-03-06,2025-07-08,214,0,David Williams
+28,6,Motion Practice,Completed,2025-06-18,2025-09-30,2025-06-18,2025-09-22,214,174,David Williams
+29,6,Trial Preparation,Completed,2025-09-30,2026-01-01,2025-09-30,2025-12-17,214,294,David Williams
+30,6,Trial,Completed,2025-12-23,2026-03-25,2025-12-23,2026-03-19,214,277,Jessica Diaz
+31,6,Appeal,Delayed,2026-03-25,2026-06-05,2026-04-08,2026-06-09,214,0,Jessica Diaz
+32,7,Due Diligence,Completed,2024-12-22,2025-01-27,2024-12-22,2025-01-29,189,250,Crystal Watkins
+33,7,Negotiation,Completed,2025-01-27,2025-03-01,2025-01-27,2025-03-02,189,245,Crystal Watkins
+34,7,Documentation,Completed,2025-03-01,2025-03-31,2025-03-01,2025-04-01,189,255,Crystal Watkins
+35,7,Closing,Delayed,2025-03-23,2025-04-27,2025-03-30,2025-05-06,189,0,Crystal Watkins
+36,8,Document Collection,Completed,2023-11-10,2023-12-16,2023-11-10,2023-12-23,48,58,Jonathan Winters
+37,8,Document Review,Completed,2023-12-16,2024-01-18,2023-12-16,2024-01-19,48,40,John Vang
+38,8,Interviews,Delayed,2024-01-15,2024-02-17,2024-01-25,2024-03-02,48,0,John Vang
+39,8,Analysis,Completed,2024-02-10,2024-03-15,2024-02-10,2024-03-15,48,59,John Vang
+40,8,Report Preparation,Delayed,2024-03-15,2024-04-08,2024-03-24,2024-04-14,48,0,Jonathan Winters
+41,9,Document Collection,Completed,2022-11-23,2023-02-05,2022-11-23,2023-02-05,10,12,Janet Nguyen
+42,9,Document Review,Completed,2023-02-05,2023-04-13,2023-02-05,2023-04-13,10,8,Janet Nguyen
+43,9,Interviews,Delayed,2023-04-05,2023-06-13,2023-04-11,2023-06-29,10,0,Janet Nguyen
+44,9,Analysis,Completed,2023-06-13,2023-08-07,2023-06-13,2023-08-16,10,8,Brian Barnes
+45,9,Report Preparation,Completed,2023-08-07,2023-09-25,2023-08-07,2023-09-25,10,13,Janet Nguyen
+46,10,Case Assessment,Planned,2024-08-10,2024-11-15,,,141,0,Janet Nguyen
+47,10,Discovery,Planned,2024-11-15,2025-02-12,,,141,0,Janet Nguyen
+48,10,Motion Practice,Planned,2025-02-12,2025-05-04,,,141,0,Janet Nguyen
+49,10,Trial Preparation,Planned,2025-05-04,2025-07-15,,,141,0,Janet Nguyen
+50,10,Trial,Planned,2025-07-15,2025-09-17,,,141,0,Janet Nguyen
+51,10,Appeal,Planned,2025-09-16,2025-11-12,,,141,0,Janet Nguyen
+52,11,Due Diligence,Completed,2024-11-28,2025-01-14,2024-11-28,2025-01-26,108,96,Alyssa Morales
+53,11,Negotiation,Completed,2025-01-14,2025-02-26,2025-01-14,2025-02-26,108,129,Alyssa Morales
+54,11,Documentation,In Progress,2025-02-26,2025-04-06,2025-02-26,,108,103,Alyssa Morales
+55,11,Closing,Planned,2025-04-06,2025-05-11,,,108,0,Alyssa Morales
+56,12,Document Collection,Planned,2024-06-15,2024-07-30,,,398,0,Gabriel Villa
+57,12,Document Review,Planned,2024-07-30,2024-09-09,,,398,0,Gary Vasquez
+58,12,Interviews,Planned,2024-09-09,2024-10-16,,,398,0,Laurie Watson
+59,12,Analysis,Planned,2024-10-06,2024-11-19,,,398,0,Tammy Mayer
+60,12,Report Preparation,Planned,2024-11-19,2024-12-19,,,398,0,Gabriel Villa
+61,13,Case Assessment,Completed,2024-08-06,2024-10-04,2024-08-06,2024-09-26,185,199,Kimberly Morris
+62,13,Discovery,Completed,2024-10-04,2024-11-27,2024-10-04,2024-11-16,185,167,Kimberly Morris
+63,13,Motion Practice,Completed,2024-11-27,2025-01-15,2024-11-27,2025-01-16,185,183,Kimberly Morris
+64,13,Trial Preparation,Delayed,2025-01-14,2025-02-28,2025-01-17,2025-02-28,185,0,Kimberly Morris
+65,13,Trial,Completed,2025-02-28,2025-04-08,2025-02-28,2025-04-01,185,209,Kimberly Morris
+66,13,Appeal,Completed,2025-04-08,2025-05-12,2025-04-08,2025-05-09,185,180,Gabriel Villa
+67,14,Document Collection,Planned,2025-02-01,2025-03-06,,,147,0,Noah Elliott
+68,14,Document Review,Planned,2025-03-06,2025-04-05,,,147,0,Noah Elliott
+69,14,Interviews,Planned,2025-03-27,2025-05-03,,,147,0,Noah Elliott
+70,14,Analysis,Planned,2025-05-03,2025-05-28,,,147,0,Noah Elliott
+71,14,Report Preparation,Planned,2025-05-28,2025-06-19,,,147,0,Noah Elliott
+72,15,Due Diligence,Planned,2024-12-03,2025-01-02,,,162,0,Edward Walker
+73,15,Negotiation,Planned,2025-01-02,2025-01-29,,,162,0,Edward Walker
+74,15,Documentation,Planned,2025-01-29,2025-02-23,,,162,0,Edward Walker
+75,15,Closing,Planned,2025-02-22,2025-03-17,,,162,0,Alyssa Morales
+76,16,Compliance Review,Planned,2024-08-27,2024-12-08,,,182,0,Scott Gonzalez
+77,16,Gap Analysis,Planned,2024-12-08,2025-03-13,,,182,0,Scott Gonzalez
+78,16,Remediation Plan,Planned,2025-03-13,2025-06-07,,,182,0,Scott Gonzalez
+79,16,Implementation,Planned,2025-06-07,2025-08-23,,,182,0,Scott Gonzalez
+80,16,Monitoring,Planned,2025-08-23,2025-10-31,,,182,0,Scott Gonzalez
+81,17,Case Assessment,Planned,2024-06-09,2024-07-03,,,72,0,Kimberly Morris
+82,17,Discovery,Planned,2024-06-25,2024-07-25,,,72,0,Kimberly Morris
+83,17,Motion Practice,Planned,2024-07-25,2024-08-14,,,72,0,Kimberly Morris
+84,17,Trial Preparation,Planned,2024-08-14,2024-09-01,,,72,0,Kimberly Morris
+85,17,Trial,Planned,2024-09-01,2024-09-17,,,72,0,Kimberly Morris
+86,17,Appeal,Planned,2024-09-15,2024-10-01,,,72,0,Kimberly Morris
+87,18,Document Collection,Planned,2025-02-02,2025-03-02,,,703,0,Tammy Mayer
+88,18,Document Review,Planned,2025-02-27,2025-03-28,,,703,0,Marisa Pena
+89,18,Interviews,Planned,2025-03-20,2025-04-20,,,703,0,Scott Gonzalez
+90,18,Analysis,Planned,2025-04-13,2025-05-11,,,703,0,Scott Gonzalez
+91,18,Report Preparation,Planned,2025-05-04,2025-05-30,,,703,0,Scott Gonzalez
+92,19,Due Diligence,Completed,2024-02-13,2024-04-28,2024-02-13,2024-04-28,206,190,Brian Williams
+93,19,Negotiation,Delayed,2024-04-28,2024-07-05,2024-05-04,2024-07-17,206,0,Rebecca Boyd
+94,19,Documentation,Completed,2024-06-25,2024-09-05,2024-06-25,2024-09-05,206,175,Rebecca Boyd
+95,19,Closing,Completed,2024-09-05,2024-10-31,2024-09-05,2024-11-12,206,242,Rebecca Boyd
+96,20,Compliance Review,Completed,2024-11-27,2025-02-03,2024-11-27,2025-02-25,150,135,Janet Nguyen
+97,20,Gap Analysis,In Progress,2025-01-26,2025-04-06,2025-01-26,,150,155,Janet Nguyen
+98,20,Remediation Plan,Planned,2025-04-06,2025-06-01,,,150,0,Janet Nguyen
+99,20,Implementation,Planned,2025-06-01,2025-07-22,,,150,0,Janet Nguyen
+100,20,Monitoring,Planned,2025-07-22,2025-09-05,,,150,0,Janet Nguyen
+101,21,Due Diligence,Completed,2022-09-04,2022-12-08,2022-09-04,2022-12-06,753,701,Christopher Graves
+102,21,Negotiation,Completed,2022-12-08,2023-03-05,2022-12-08,2023-02-22,753,1030,Janet Nguyen
+103,21,Documentation,Completed,2023-02-26,2023-05-23,2023-02-26,2023-05-31,753,881,Lisa Smith
+104,21,Closing,Completed,2023-05-23,2023-08-02,2023-05-23,2023-08-07,753,698,Janet Nguyen
+105,22,Document Collection,Completed,2025-01-07,2025-04-23,2025-01-07,2025-04-04,61,74,Alyssa Morales
+106,22,Document Review,Completed,2025-04-23,2025-07-29,2025-04-23,2025-08-16,61,74,Alyssa Morales
+107,22,Interviews,Completed,2025-07-29,2025-10-25,2025-07-29,2025-10-10,61,75,Alyssa Morales
+108,22,Analysis,Completed,2025-10-25,2026-01-12,2025-10-25,2026-01-24,61,64,Alyssa Morales
+109,22,Report Preparation,Completed,2026-01-12,2026-03-23,2026-01-12,2026-04-03,61,73,Alyssa Morales
+110,23,Compliance Review,Planned,2024-04-30,2024-06-24,,,384,0,Scott Gonzalez
+111,23,Gap Analysis,Planned,2024-06-24,2024-08-14,,,384,0,Scott Gonzalez
+112,23,Remediation Plan,Planned,2024-08-12,2024-09-29,,,384,0,Sandy Price
+113,23,Implementation,Planned,2024-09-23,2024-11-09,,,384,0,Scott Gonzalez
+114,23,Monitoring,Planned,2024-11-09,2024-12-16,,,384,0,Scott Gonzalez
+115,24,Research,Completed,2024-02-23,2024-05-14,2024-02-23,2024-05-06,297,374,David Williams
+116,24,Analysis,Completed,2024-05-14,2024-07-28,2024-05-14,2024-07-30,297,326,Barbara Walters
+117,24,Draft Opinion,Completed,2024-07-21,2024-10-04,2024-07-21,2024-09-15,297,359,David Williams
+118,24,Client Review,Completed,2024-10-03,2024-12-04,2024-10-03,2024-12-07,297,317,David Williams
+119,24,Finalization,Delayed,2024-12-04,2025-01-27,2024-12-09,2025-02-18,297,0,David Williams
+120,25,Due Diligence,Planned,2024-10-07,2024-12-12,,,414,0,Christopher Graves
+121,25,Negotiation,Planned,2024-12-12,2025-02-10,,,414,0,Christopher Graves
+122,25,Documentation,Planned,2025-02-10,2025-04-06,,,414,0,Sandy Price
+123,25,Closing,Planned,2025-04-05,2025-05-25,,,414,0,Sandy Price
+124,26,Compliance Review,Completed,2022-09-30,2023-01-10,2022-09-30,2022-12-21,56,62,David Williams
+125,26,Gap Analysis,Completed,2023-01-10,2023-04-13,2023-01-10,2023-03-27,56,69,David Williams
+126,26,Remediation Plan,Completed,2023-04-10,2023-07-07,2023-04-10,2023-06-22,56,68,David Williams
+127,26,Implementation,Completed,2023-07-04,2023-09-21,2023-07-04,2023-10-02,56,59,David Williams
+128,26,Monitoring,Completed,2023-09-21,2023-11-28,2023-09-21,2023-11-17,56,59,David Williams
+129,27,Compliance Review,Completed,2025-01-06,2025-05-15,2025-01-06,2025-05-15,21,21,Noah Elliott
+130,27,Gap Analysis,Completed,2025-05-15,2025-09-10,2025-05-15,2025-10-01,21,23,Laura Davis
+131,27,Remediation Plan,Completed,2025-09-10,2025-12-26,2025-09-10,2025-12-25,21,21,Laura Davis
+132,27,Implementation,Completed,2025-12-26,2026-04-02,2025-12-26,2026-03-25,21,22,Noah Elliott
+133,27,Monitoring,Delayed,2026-03-27,2026-06-27,2026-04-09,2026-07-12,21,0,Laura Davis
+134,28,Case Assessment,Planned,2024-09-27,2024-11-30,,,191,0,Laurie Watson
+135,28,Discovery,Planned,2024-11-24,2025-01-28,,,191,0,David Williams
+136,28,Motion Practice,Planned,2025-01-28,2025-03-22,,,191,0,David Williams
+137,28,Trial Preparation,Planned,2025-03-22,2025-05-09,,,191,0,Brenda Robertson
+138,28,Trial,Planned,2025-05-09,2025-06-21,,,191,0,Laurie Watson
+139,28,Appeal,Planned,2025-06-17,2025-07-28,,,191,0,Laurie Watson
+140,29,Due Diligence,Planned,2023-04-20,2023-08-08,,,118,0,Crystal Watkins
+141,29,Negotiation,Planned,2023-08-08,2023-11-16,,,118,0,Crystal Watkins
+142,29,Documentation,Planned,2023-11-16,2024-02-15,,,118,0,Crystal Watkins
+143,29,Closing,Planned,2024-02-15,2024-05-07,,,118,0,Crystal Watkins
+144,30,Case Assessment,Completed,2024-12-21,2025-03-27,2024-12-21,2025-04-06,194,237,Tammy Mayer
+145,30,Discovery,Completed,2025-03-27,2025-06-23,2025-03-27,2025-06-17,194,197,Scott Gonzalez
+146,30,Motion Practice,Completed,2025-06-13,2025-09-11,2025-06-13,2025-09-09,194,227,Crystal Watkins
+147,30,Trial Preparation,Delayed,2025-09-11,2025-11-22,2025-09-14,2025-11-16,194,0,Marisa Pena
+148,30,Trial,Completed,2025-11-12,2026-01-25,2025-11-12,2026-01-15,194,170,Crystal Watkins
+149,30,Appeal,Completed,2026-01-24,2026-03-22,2026-01-24,2026-03-16,194,211,Marisa Pena
+150,31,Research,Planned,2024-10-15,2025-02-18,,,251,0,Janet Nguyen
+151,31,Analysis,Planned,2025-02-18,2025-06-14,,,251,0,Barbara Walters
+152,31,Draft Opinion,Planned,2025-06-14,2025-09-27,,,251,0,Barbara Walters
+153,31,Client Review,Planned,2025-09-18,2025-12-31,,,251,0,Barbara Walters
+154,31,Finalization,Planned,2025-12-21,2026-03-25,,,251,0,Janet Nguyen
+155,32,Document Collection,Planned,2024-08-13,2024-11-22,,,300,0,Christopher Graves
+156,32,Document Review,Planned,2024-11-22,2025-02-23,,,300,0,Christopher Graves
+157,32,Interviews,Planned,2025-02-23,2025-05-18,,,300,0,Christopher Graves
+158,32,Analysis,Planned,2025-05-18,2025-08-02,,,300,0,Christopher Graves
+159,32,Report Preparation,Planned,2025-08-02,2025-10-08,,,300,0,Tammy Mayer
+160,33,Research,Planned,2023-01-23,2023-02-13,,,147,0,Kenneth Torres
+161,33,Analysis,Planned,2023-02-12,2023-03-04,,,147,0,Kenneth Torres
+162,33,Draft Opinion,Planned,2023-03-04,2023-03-22,,,147,0,Mary Jones
+163,33,Client Review,Planned,2023-03-22,2023-04-07,,,147,0,Mary Jones
+164,33,Finalization,Planned,2023-04-07,2023-04-21,,,147,0,Kenneth Torres
+165,34,Compliance Review,Planned,2023-07-30,2023-10-03,,,361,0,Noah Elliott
+166,34,Gap Analysis,Planned,2023-09-28,2023-12-02,,,361,0,Janet Nguyen
+167,34,Remediation Plan,Planned,2023-11-25,2024-01-25,,,361,0,Janet Nguyen
+168,34,Implementation,Planned,2024-01-19,2024-03-14,,,361,0,Tammy Mayer
+169,34,Monitoring,Planned,2024-03-08,2024-04-26,,,361,0,Tammy Mayer
+170,35,Compliance Review,Completed,2024-11-30,2025-01-04,2024-11-30,2025-01-02,375,378,Jessica Diaz
+171,35,Gap Analysis,Delayed,2025-01-04,2025-02-05,2025-01-17,2025-02-20,375,0,Scott Gonzalez
+172,35,Remediation Plan,Delayed,2025-02-05,2025-03-06,2025-02-10,2025-03-18,375,0,Scott Gonzalez
+173,35,Implementation,Completed,2025-03-06,2025-04-01,2025-03-06,2025-04-02,375,302,Jessica Diaz
+174,35,Monitoring,Completed,2025-03-28,2025-04-24,2025-03-28,2025-04-16,375,404,Scott Gonzalez
+175,36,Due Diligence,Completed,2022-11-19,2023-03-21,2022-11-19,2023-04-28,99,134,John Vang
+176,36,Negotiation,Completed,2023-03-17,2023-07-11,2023-03-17,2023-08-11,99,108,Noah Elliott
+177,36,Documentation,Completed,2023-07-11,2023-10-20,2023-07-11,2023-10-20,99,92,John Vang
+178,36,Closing,Completed,2023-10-20,2024-01-19,2023-10-20,2024-01-19,99,121,John Vang
+179,37,Research,Completed,2024-10-05,2025-01-31,2024-10-05,2025-01-31,61,71,Brian Williams
+180,37,Analysis,Delayed,2025-01-31,2025-05-19,2025-02-10,,61,0,Crystal Watkins
+181,37,Draft Opinion,Planned,2025-05-15,2025-08-25,,,61,0,Crystal Watkins
+182,37,Client Review,Planned,2025-08-25,2025-11-21,,,61,0,Crystal Watkins
+183,37,Finalization,Planned,2025-11-21,2026-02-07,,,61,0,Michelle Wade
+184,38,Case Assessment,Planned,2023-02-14,2023-05-23,,,111,0,Shannon Powers
+185,38,Discovery,Planned,2023-05-23,2023-08-21,,,111,0,Brian Williams
+186,38,Motion Practice,Planned,2023-08-14,2023-11-11,,,111,0,Shannon Powers
+187,38,Trial Preparation,Planned,2023-11-07,2024-01-24,,,111,0,Brian Williams
+188,38,Trial,Planned,2024-01-24,2024-03-29,,,111,0,Shannon Powers
+189,38,Appeal,Planned,2024-03-29,2024-05-25,,,111,0,Brian Williams
+190,39,Compliance Review,Planned,2023-10-31,2024-01-13,,,646,0,Tammy Mayer
+191,39,Gap Analysis,Planned,2024-01-13,2024-03-21,,,646,0,Cheyenne Anderson
+192,39,Remediation Plan,Planned,2024-03-21,2024-05-22,,,646,0,Cheyenne Anderson
+193,39,Implementation,Planned,2024-05-18,2024-07-16,,,646,0,Victoria Patterson
+194,39,Monitoring,Planned,2024-07-16,2024-09-03,,,646,0,Victoria Patterson
+195,40,Research,Planned,2024-11-01,2025-02-08,,,239,0,Marisa Pena
+196,40,Analysis,Planned,2025-02-02,2025-05-10,,,239,0,Crystal Watkins
+197,40,Draft Opinion,Planned,2025-05-10,2025-08-01,,,239,0,Alyssa Morales
+198,40,Client Review,Planned,2025-07-28,2025-10-14,,,239,0,Alyssa Morales
+199,40,Finalization,Planned,2025-10-14,2025-12-19,,,239,0,Alyssa Morales
+200,41,Due Diligence,Planned,2024-02-09,2024-05-02,,,641,0,Marisa Pena
+201,41,Negotiation,Planned,2024-04-29,2024-07-17,,,641,0,Scott Gonzalez
+202,41,Documentation,Planned,2024-07-08,2024-09-24,,,641,0,Dalton Peterson
+203,41,Closing,Planned,2024-09-24,2024-11-25,,,641,0,Dalton Peterson
+204,42,Research,Completed,2024-10-02,2024-11-16,2024-10-02,2024-11-09,108,120,Sandy Price
+205,42,Analysis,Delayed,2024-11-16,2024-12-27,2024-11-20,2025-01-09,108,0,Christopher Graves
+206,42,Draft Opinion,Completed,2024-12-19,2025-02-02,2024-12-19,2025-01-28,108,140,Christopher Graves
+207,42,Client Review,Completed,2025-02-02,2025-03-08,2025-02-02,2025-03-03,108,124,Sandy Price
+208,42,Finalization,Completed,2025-03-04,2025-04-07,2025-03-04,2025-04-08,108,100,Sandy Price
+209,43,Research,Planned,2023-03-23,2023-07-17,,,226,0,Crystal Watkins
+210,43,Analysis,Planned,2023-07-17,2023-10-31,,,226,0,Crystal Watkins
+211,43,Draft Opinion,Planned,2023-10-31,2024-02-05,,,226,0,Crystal Watkins
+212,43,Client Review,Planned,2024-02-05,2024-05-02,,,226,0,Crystal Watkins
+213,43,Finalization,Planned,2024-05-02,2024-07-18,,,226,0,Crystal Watkins
+214,44,Due Diligence,Completed,2024-11-06,2025-02-25,2024-11-06,2025-03-05,199,234,Rebecca Boyd
+215,44,Negotiation,Completed,2025-02-25,2025-06-07,2025-02-25,2025-05-29,199,182,Rebecca Boyd
+216,44,Documentation,Completed,2025-06-07,2025-09-07,2025-06-07,2025-09-21,199,237,Edward Walker
+217,44,Closing,Completed,2025-09-07,2025-11-29,2025-09-07,2025-11-21,199,206,Rebecca Boyd
+218,45,Document Collection,Planned,2025-02-07,2025-03-30,,,383,0,Jessica Diaz
+219,45,Document Review,Planned,2025-03-30,2025-05-16,,,383,0,Jessica Diaz
+220,45,Interviews,Planned,2025-05-07,2025-06-28,,,383,0,David Williams
+221,45,Analysis,Planned,2025-06-28,2025-08-05,,,383,0,Jessica Diaz
+222,45,Report Preparation,Planned,2025-07-26,2025-09-08,,,383,0,Shannon Powers
+223,46,Case Assessment,Planned,2024-09-26,2024-11-21,,,129,0,Mary Jones
+224,46,Discovery,Planned,2024-11-21,2025-01-11,,,129,0,Mary Jones
+225,46,Motion Practice,Planned,2025-01-07,2025-02-27,,,129,0,Mary Jones
+226,46,Trial Preparation,Planned,2025-02-27,2025-04-10,,,129,0,Mary Jones
+227,46,Trial,Planned,2025-04-02,2025-05-17,,,129,0,Mary Jones
+228,46,Appeal,Planned,2025-05-10,2025-06-19,,,129,0,Mary Jones
+229,47,Research,Completed,2024-04-01,2024-08-06,2024-04-01,2024-08-30,38,30,Crystal Watkins
+230,47,Analysis,Completed,2024-08-06,2024-12-01,2024-08-06,2024-11-20,38,47,Crystal Watkins
+231,47,Draft Opinion,Delayed,2024-11-30,2025-03-17,2024-12-13,2025-04-06,38,0,Crystal Watkins
+232,47,Client Review,Completed,2025-03-17,2025-06-20,2025-03-17,2025-06-24,38,47,Crystal Watkins
+233,47,Finalization,Completed,2025-06-11,2025-09-13,2025-06-11,2025-08-22,38,35,Crystal Watkins
+234,48,Due Diligence,Planned,2022-10-19,2023-01-04,,,776,0,Christopher Graves
+235,48,Negotiation,Planned,2023-01-04,2023-03-15,,,776,0,Tammy Mayer
+236,48,Documentation,Planned,2023-03-15,2023-05-18,,,776,0,Mary Jones
+237,48,Closing,Planned,2023-05-18,2023-07-14,,,776,0,Sandy Price
+238,49,Due Diligence,Planned,2025-01-23,2025-06-08,,,192,0,Crystal Watkins
+239,49,Negotiation,Planned,2025-06-08,2025-10-10,,,192,0,Deborah Gomez
+240,49,Documentation,Planned,2025-10-10,2026-01-31,,,192,0,Crystal Watkins
+241,49,Closing,Planned,2026-01-23,2026-05-13,,,192,0,Deborah Gomez
+242,50,Case Assessment,Planned,2024-12-02,2024-12-28,,,67,0,David Williams
+243,50,Discovery,Planned,2024-12-20,2025-01-20,,,67,0,David Williams
+244,50,Motion Practice,Planned,2025-01-20,2025-02-10,,,67,0,Gary Vasquez
+245,50,Trial Preparation,Planned,2025-02-10,2025-03-01,,,67,0,David Williams
+246,50,Trial,Planned,2025-03-01,2025-03-18,,,67,0,Gary Vasquez
+247,50,Appeal,Planned,2025-03-12,2025-04-02,,,67,0,Kimberly Morris
+248,51,Due Diligence,In Progress,2025-01-25,2025-04-19,2025-01-25,,181,179,Janet Nguyen
+249,51,Negotiation,Planned,2025-04-19,2025-07-05,,,181,0,Janet Nguyen
+250,51,Documentation,Planned,2025-07-05,2025-09-13,,,181,0,Janet Nguyen
+251,51,Closing,Planned,2025-09-07,2025-11-15,,,181,0,Janet Nguyen
+252,52,Case Assessment,Planned,2025-01-11,2025-04-10,,,126,0,Jessica Diaz
+253,52,Discovery,Planned,2025-04-10,2025-07-01,,,126,0,Noah Elliott
+254,52,Motion Practice,Planned,2025-06-25,2025-09-13,,,126,0,Shannon Powers
+255,52,Trial Preparation,Planned,2025-09-11,2025-11-19,,,126,0,Jessica Diaz
+256,52,Trial,Planned,2025-11-19,2026-01-17,,,126,0,Jessica Diaz
+257,52,Appeal,Planned,2026-01-14,2026-03-10,,,126,0,Jessica Diaz
+258,53,Due Diligence,Completed,2024-10-08,2025-01-04,2024-10-08,2025-01-12,51,57,Jordan Snyder
+259,53,Negotiation,Completed,2025-01-04,2025-03-25,2025-01-04,2025-03-31,51,68,Tammy Mayer
+260,53,Documentation,In Progress,2025-03-25,2025-06-06,2025-03-25,,51,50,Alyssa Morales
+261,53,Closing,Planned,2025-06-06,2025-08-11,,,51,0,Alyssa Morales
+262,54,Case Assessment,Completed,2023-06-11,2023-08-24,2023-06-11,2023-08-24,173,217,Mary Jones
+263,54,Discovery,Completed,2023-08-24,2023-10-31,2023-08-24,2023-10-31,173,217,Lisa Smith
+264,54,Motion Practice,Completed,2023-10-31,2024-01-01,2023-10-31,2024-01-01,173,201,Mary Jones
+265,54,Trial Preparation,Completed,2024-01-01,2024-02-25,2024-01-01,2024-02-25,173,141,Lisa Smith
+266,54,Trial,Delayed,2024-02-25,2024-04-14,2024-03-03,2024-04-20,173,0,Mary Jones
+267,54,Appeal,Completed,2024-04-14,2024-05-27,2024-04-14,2024-05-27,173,146,Lisa Smith
+268,55,Due Diligence,Completed,2022-11-04,2022-12-18,2022-11-04,2022-12-31,298,275,Kimberly Morris
+269,55,Negotiation,Completed,2022-12-18,2023-01-27,2022-12-18,2023-01-27,298,351,Kimberly Morris
+270,55,Documentation,Completed,2023-01-27,2023-03-04,2023-01-27,2023-03-14,298,283,Kimberly Morris
+271,55,Closing,Completed,2023-03-04,2023-04-06,2023-03-04,2023-04-06,298,412,Alyssa Morales
+272,56,Case Assessment,Completed,2024-08-16,2024-10-15,2024-08-16,2024-10-21,475,592,Brian Williams
+273,56,Discovery,Completed,2024-10-15,2024-12-09,2024-10-15,2024-12-19,475,610,Brian Williams
+274,56,Motion Practice,Completed,2024-12-09,2025-01-28,2024-12-09,2025-02-04,475,440,Kimberly Morris
+275,56,Trial Preparation,Completed,2025-01-21,2025-03-14,2025-01-21,2025-03-13,475,398,Gabriel Villa
+276,56,Trial,Delayed,2025-03-09,2025-04-23,2025-03-23,2025-04-19,475,0,Sarah Doyle
+277,56,Appeal,Completed,2025-04-23,2025-05-28,2025-04-23,2025-05-22,475,407,Brian Williams
+278,57,Document Collection,Completed,2024-10-25,2024-12-18,2024-10-25,2024-12-18,185,217,Kimberly Morris
+279,57,Document Review,Completed,2024-12-13,2025-02-06,2024-12-13,2025-02-09,185,202,Christopher Graves
+280,57,Interviews,Completed,2025-02-05,2025-03-23,2025-02-05,2025-03-23,185,188,Christopher Graves
+281,57,Analysis,In Progress,2025-03-23,2025-05-03,2025-03-23,,185,205,Kimberly Morris
+282,57,Report Preparation,Planned,2025-05-03,2025-06-08,,,185,0,Michael Mcdaniel
+283,58,Document Collection,Planned,2024-08-25,2024-11-28,,,173,0,Mary Jones
+284,58,Document Review,Planned,2024-11-28,2025-02-23,,,173,0,Mary Jones
+285,58,Interviews,Planned,2025-02-23,2025-05-13,,,173,0,Mary Jones
+286,58,Analysis,Planned,2025-05-13,2025-07-23,,,173,0,Mary Jones
+287,58,Report Preparation,Planned,2025-07-23,2025-09-24,,,173,0,Mary Jones
+288,59,Case Assessment,Planned,2024-05-31,2024-08-24,,,33,0,Noah Elliott
+289,59,Discovery,Planned,2024-08-24,2024-11-10,,,33,0,Janet Nguyen
+290,59,Motion Practice,Planned,2024-11-10,2025-01-20,,,33,0,Janet Nguyen
+291,59,Trial Preparation,Planned,2025-01-20,2025-03-25,,,33,0,Noah Elliott
+292,59,Trial,Planned,2025-03-25,2025-05-21,,,33,0,Janet Nguyen
+293,59,Appeal,Planned,2025-05-21,2025-07-09,,,33,0,Noah Elliott
+294,60,Due Diligence,Completed,2025-02-17,2025-04-10,2025-02-17,2025-04-18,911,1239,Scott Gonzalez
+295,60,Negotiation,Completed,2025-04-10,2025-05-27,2025-04-10,2025-05-20,911,1231,Scott Gonzalez
+296,60,Documentation,Completed,2025-05-27,2025-07-09,2025-05-27,2025-07-06,911,1021,Christopher Rogers
+297,60,Closing,Delayed,2025-07-09,2025-08-17,2025-07-13,2025-08-27,911,0,Frank Smith
+298,61,Compliance Review,Planned,2024-04-12,2024-06-15,,,302,0,Sarah Doyle
+299,61,Gap Analysis,Planned,2024-06-15,2024-08-13,,,302,0,Janet Nguyen
+300,61,Remediation Plan,Planned,2024-08-08,2024-10-05,,,302,0,Janet Nguyen
+301,61,Implementation,Planned,2024-10-05,2024-11-22,,,302,0,Janet Nguyen
+302,61,Monitoring,Planned,2024-11-12,2025-01-04,,,302,0,Rebecca Boyd
+303,62,Document Collection,Completed,2024-05-01,2024-08-16,2024-05-01,2024-08-26,332,332,Barbara Walters
+304,62,Document Review,Completed,2024-08-13,2024-11-22,2024-08-13,2024-11-29,332,324,Gary Nelson
+305,62,Interviews,Completed,2024-11-21,2025-02-19,2024-11-21,2025-02-07,332,451,David Williams
+306,62,Analysis,Delayed,2025-02-19,2025-05-10,2025-02-25,2025-06-04,332,0,David Williams
+307,62,Report Preparation,Completed,2025-05-10,2025-07-20,2025-05-10,2025-07-08,332,396,Barbara Walters
+308,63,Case Assessment,Completed,2024-07-26,2024-08-18,2024-07-26,2024-08-18,179,173,Jessica Diaz
+309,63,Discovery,Completed,2024-08-18,2024-09-08,2024-08-18,2024-09-12,179,234,Mary Jones
+310,63,Motion Practice,Completed,2024-09-07,2024-09-27,2024-09-07,2024-09-27,179,194,Mary Jones
+311,63,Trial Preparation,Completed,2024-09-27,2024-10-14,2024-09-27,2024-10-14,179,202,Jessica Diaz
+312,63,Trial,Completed,2024-10-12,2024-10-29,2024-10-12,2024-10-29,179,146,Mary Jones
+313,63,Appeal,Completed,2024-10-29,2024-11-11,2024-10-29,2024-11-11,179,234,Mary Jones
+314,64,Case Assessment,Planned,2023-03-11,2023-06-17,,,99,0,Brian Williams
+315,64,Discovery,Planned,2023-06-09,2023-09-15,,,99,0,Brian Williams
+316,64,Motion Practice,Planned,2023-09-15,2023-12-06,,,99,0,Brian Williams
+317,64,Trial Preparation,Planned,2023-12-02,2024-02-18,,,99,0,Brian Williams
+318,64,Trial,Planned,2024-02-18,2024-04-23,,,99,0,Brian Williams
+319,64,Appeal,Planned,2024-04-19,2024-06-19,,,99,0,Brian Williams
+320,65,Due Diligence,Planned,2023-07-01,2023-08-03,,,288,0,David Williams
+321,65,Negotiation,Planned,2023-08-03,2023-09-02,,,288,0,David Williams
+322,65,Documentation,Planned,2023-09-02,2023-09-30,,,288,0,David Williams
+323,65,Closing,Planned,2023-09-30,2023-10-25,,,288,0,David Williams
+324,66,Document Collection,Completed,2023-09-21,2023-12-29,2023-09-21,2023-12-29,327,433,Brian Williams
+325,66,Document Review,Completed,2023-12-29,2024-03-28,2023-12-29,2024-03-28,327,295,Sarah Doyle
+326,66,Interviews,Delayed,2024-03-28,2024-06-18,2024-04-04,2024-06-30,327,0,Sarah Doyle
+327,66,Analysis,Completed,2024-06-18,2024-08-31,2024-06-18,2024-09-23,327,414,Sarah Doyle
+328,66,Report Preparation,Delayed,2024-08-22,2024-11-05,2024-09-03,2024-11-18,327,0,Brian Williams
+329,67,Due Diligence,Completed,2024-11-12,2025-02-24,2024-11-12,2025-02-03,287,235,Kenneth Torres
+330,67,Negotiation,Completed,2025-02-24,2025-05-30,2025-02-24,2025-05-13,287,266,Mary Jones
+331,67,Documentation,Completed,2025-05-30,2025-08-24,2025-05-30,2025-09-04,287,330,Kenneth Torres
+332,67,Closing,Delayed,2025-08-24,2025-11-10,2025-08-31,2025-11-07,287,0,Mary Jones
+333,68,Case Assessment,Completed,2024-05-26,2024-06-28,2024-05-26,2024-06-28,176,171,Victoria Patterson
+334,68,Discovery,Completed,2024-06-28,2024-07-28,2024-06-28,2024-08-03,176,169,Victoria Patterson
+335,68,Motion Practice,Completed,2024-07-28,2024-08-24,2024-07-28,2024-08-27,176,171,Alyssa Morales
+336,68,Trial Preparation,Completed,2024-08-20,2024-09-17,2024-08-20,2024-09-22,176,209,Alyssa Morales
+337,68,Trial,Delayed,2024-09-10,2024-10-09,2024-09-17,2024-10-30,176,0,David Williams
+338,68,Appeal,Completed,2024-10-09,2024-10-28,2024-10-09,2024-10-28,176,159,David Williams
+339,69,Case Assessment,Completed,2024-08-30,2024-09-30,2024-08-30,2024-10-02,238,326,Kimberly Morris
+340,69,Discovery,Delayed,2024-09-28,2024-10-28,2024-10-08,2024-10-26,238,0,Edward Walker
+341,69,Motion Practice,Completed,2024-10-28,2024-11-23,2024-10-28,2024-11-18,238,275,Rebecca Boyd
+342,69,Trial Preparation,Completed,2024-11-23,2024-12-16,2024-11-23,2024-12-17,238,212,Edward Walker
+343,69,Trial,Completed,2024-12-16,2025-01-05,2024-12-16,2025-01-01,238,209,Edward Walker
+344,69,Appeal,Completed,2025-01-01,2025-01-23,2025-01-01,2025-01-20,238,264,Kimberly Morris
+345,70,Document Collection,Planned,2024-11-14,2025-02-19,,,266,0,Edward Walker
+346,70,Document Review,Planned,2025-02-19,2025-05-19,,,266,0,Brian Williams
+347,70,Interviews,Planned,2025-05-19,2025-08-08,,,266,0,Brian Williams
+348,70,Analysis,Planned,2025-08-08,2025-10-20,,,266,0,Gary Nelson
+349,70,Report Preparation,Planned,2025-10-20,2025-12-24,,,266,0,Brian Williams
+350,71,Due Diligence,Completed,2024-04-08,2024-09-06,2024-04-08,2024-09-09,473,418,Kimberly Morris
+351,71,Negotiation,Completed,2024-09-04,2025-01-23,2024-09-04,2025-02-05,473,622,Kimberly Morris
+352,71,Documentation,Completed,2025-01-23,2025-05-29,2025-01-23,2025-05-18,473,378,Kimberly Morris
+353,71,Closing,Completed,2025-05-29,2025-09-19,2025-05-29,2025-10-02,473,656,Laura Davis
+354,72,Research,Planned,2023-05-05,2023-08-28,,,123,0,Shannon Powers
+355,72,Analysis,Planned,2023-08-28,2023-12-11,,,123,0,Barbara Walters
+356,72,Draft Opinion,Planned,2023-12-11,2024-03-16,,,123,0,Shannon Powers
+357,72,Client Review,Planned,2024-03-16,2024-06-10,,,123,0,Barbara Walters
+358,72,Finalization,Planned,2024-06-10,2024-08-25,,,123,0,Shannon Powers
+359,73,Research,Planned,2022-11-07,2023-02-11,,,540,0,Marisa Pena
+360,73,Analysis,Planned,2023-02-11,2023-05-10,,,540,0,Tammy Mayer
+361,73,Draft Opinion,Planned,2023-05-10,2023-07-29,,,540,0,Crystal Watkins
+362,73,Client Review,Planned,2023-07-29,2023-10-09,,,540,0,Marisa Pena
+363,73,Finalization,Planned,2023-09-30,2023-12-12,,,540,0,Marisa Pena
+364,74,Due Diligence,Completed,2023-09-16,2023-10-29,2023-09-16,2023-10-29,950,936,Julie Roman
+365,74,Negotiation,Completed,2023-10-21,2023-12-07,2023-10-21,2023-12-15,950,1052,Marisa Pena
+366,74,Documentation,Delayed,2023-12-07,2024-01-11,2023-12-19,2024-01-16,950,0,Noah Elliott
+367,74,Closing,Completed,2024-01-11,2024-02-12,2024-01-11,2024-02-12,950,943,Dalton Peterson
+368,75,Compliance Review,Completed,2024-07-17,2024-08-16,2024-07-17,2024-08-22,416,520,Julie Roman
+369,75,Gap Analysis,Delayed,2024-08-16,2024-09-12,2024-08-20,2024-09-30,416,0,Julie Roman
+370,75,Remediation Plan,Completed,2024-09-12,2024-10-07,2024-09-12,2024-10-07,416,429,Brian Williams
+371,75,Implementation,Completed,2024-10-07,2024-10-29,2024-10-07,2024-10-29,416,357,Scott Gonzalez
+372,75,Monitoring,Delayed,2024-10-29,2024-11-18,2024-11-01,2024-11-26,416,0,Scott Gonzalez
+373,76,Compliance Review,Planned,2024-04-19,2024-07-28,,,484,0,Tammy Mayer
+374,76,Gap Analysis,Planned,2024-07-28,2024-10-27,,,484,0,Scott Gonzalez
+375,76,Remediation Plan,Planned,2024-10-20,2025-01-18,,,484,0,Crystal Watkins
+376,76,Implementation,Planned,2025-01-08,2025-04-03,,,484,0,Crystal Watkins
+377,76,Monitoring,Planned,2025-04-03,2025-06-08,,,484,0,Scott Gonzalez
+378,77,Due Diligence,Planned,2024-03-29,2024-06-09,,,78,0,David Williams
+379,77,Negotiation,Planned,2024-06-09,2024-08-14,,,78,0,David Williams
+380,77,Documentation,Planned,2024-08-14,2024-10-13,,,78,0,Alyssa Morales
+381,77,Closing,Planned,2024-10-10,2024-12-06,,,78,0,Gary Vasquez
+382,78,Research,Planned,2024-06-05,2024-07-22,,,119,0,Noah Elliott
+383,78,Analysis,Planned,2024-07-22,2024-09-03,,,119,0,Noah Elliott
+384,78,Draft Opinion,Planned,2024-08-28,2024-10-12,,,119,0,Noah Elliott
+385,78,Client Review,Planned,2024-10-12,2024-11-16,,,119,0,Noah Elliott
+386,78,Finalization,Planned,2024-11-07,2024-12-17,,,119,0,Noah Elliott
+387,79,Due Diligence,Planned,2025-01-10,2025-05-11,,,412,0,Victoria Patterson
+388,79,Negotiation,Planned,2025-05-11,2025-08-30,,,412,0,Scott Gonzalez
+389,79,Documentation,Planned,2025-08-30,2025-12-08,,,412,0,Kenneth Torres
+390,79,Closing,Planned,2025-12-08,2026-03-08,,,412,0,Victoria Patterson
+391,80,Compliance Review,Completed,2025-02-05,2025-03-03,2025-02-05,2025-03-03,383,368,Tammy Mayer
+392,80,Gap Analysis,Completed,2025-03-02,2025-03-27,2025-03-02,2025-03-27,383,452,Tammy Mayer
+393,80,Remediation Plan,In Progress,2025-03-27,2025-04-18,2025-03-27,,383,515,Tammy Mayer
+394,80,Implementation,Planned,2025-04-18,2025-05-07,,,383,0,Tammy Mayer
+395,80,Monitoring,Planned,2025-05-04,2025-05-24,,,383,0,Tammy Mayer
+396,81,Due Diligence,In Progress,2025-01-17,2025-06-06,2025-01-17,,228,266,Rebecca Boyd
+397,81,Negotiation,Planned,2025-06-06,2025-10-12,,,228,0,Brian Williams
+398,81,Documentation,Planned,2025-10-12,2026-02-05,,,228,0,Rebecca Boyd
+399,81,Closing,Planned,2026-01-28,2026-05-21,,,228,0,Rebecca Boyd
+400,82,Compliance Review,Planned,2023-08-12,2023-10-07,,,35,0,Scott Gonzalez
+401,82,Gap Analysis,Planned,2023-10-07,2023-11-28,,,35,0,Scott Gonzalez
+402,82,Remediation Plan,Planned,2023-11-28,2024-01-14,,,35,0,Scott Gonzalez
+403,82,Implementation,Planned,2024-01-14,2024-02-25,,,35,0,Scott Gonzalez
+404,82,Monitoring,Planned,2024-02-25,2024-04-02,,,35,0,Scott Gonzalez
+405,83,Compliance Review,Completed,2022-08-10,2022-10-07,2022-08-10,2022-10-16,519,576,Scott Gonzalez
+406,83,Gap Analysis,Completed,2022-10-07,2022-11-29,2022-10-07,2022-11-29,519,526,Deborah Gomez
+407,83,Remediation Plan,Completed,2022-11-29,2023-01-16,2022-11-29,2023-02-01,519,428,Kimberly Morris
+408,83,Implementation,Completed,2023-01-10,2023-02-28,2023-01-10,2023-03-09,519,466,Scott Gonzalez
+409,83,Monitoring,Delayed,2023-02-26,2023-04-07,2023-03-12,2023-04-21,519,0,Scott Gonzalez
+410,84,Case Assessment,Planned,2022-07-19,2022-11-01,,,271,0,Tammy Mayer
+411,84,Discovery,Planned,2022-11-01,2023-02-05,,,271,0,Shannon Powers
+412,84,Motion Practice,Planned,2023-02-05,2023-05-03,,,271,0,Tammy Mayer
+413,84,Trial Preparation,Planned,2023-05-03,2023-07-20,,,271,0,Barbara Walters
+414,84,Trial,Planned,2023-07-20,2023-09-28,,,271,0,Tammy Mayer
+415,84,Appeal,Planned,2023-09-28,2023-11-28,,,271,0,Tammy Mayer
+416,85,Research,Planned,2023-09-21,2023-11-13,,,561,0,Mary Jones
+417,85,Analysis,Planned,2023-11-13,2023-12-31,,,561,0,Mary Jones
+418,85,Draft Opinion,Planned,2023-12-31,2024-02-13,,,561,0,Brian Williams
+419,85,Client Review,Planned,2024-02-09,2024-03-23,,,561,0,Brian Williams
+420,85,Finalization,Planned,2024-03-23,2024-04-27,,,561,0,Mary Jones
+421,86,Research,Planned,2023-04-02,2023-06-07,,,107,0,Barbara Walters
+422,86,Analysis,Planned,2023-06-07,2023-08-07,,,107,0,Barbara Walters
+423,86,Draft Opinion,Planned,2023-08-07,2023-10-01,,,107,0,Tammy Mayer
+424,86,Client Review,Planned,2023-09-22,2023-11-20,,,107,0,Barbara Walters
+425,86,Finalization,Planned,2023-11-20,2024-01-03,,,107,0,Barbara Walters
+426,87,Document Collection,Completed,2024-05-22,2024-07-11,2024-05-22,2024-07-11,515,648,David Williams
+427,87,Document Review,Completed,2024-07-11,2024-08-26,2024-07-11,2024-08-26,515,433,Jeffrey Black
+428,87,Interviews,Delayed,2024-08-26,2024-10-07,2024-09-04,2024-10-13,515,0,Shannon Powers
+429,87,Analysis,Completed,2024-10-04,2024-11-13,2024-10-04,2024-11-13,515,443,David Williams
+430,87,Report Preparation,Delayed,2024-11-13,2024-12-16,2024-11-25,2024-12-30,515,0,David Williams
+431,88,Compliance Review,Planned,2025-02-05,2025-03-24,,,305,0,Scott Gonzalez
+432,88,Gap Analysis,Planned,2025-03-24,2025-05-06,,,305,0,Barbara Walters
+433,88,Remediation Plan,Planned,2025-05-06,2025-06-14,,,305,0,Barbara Walters
+434,88,Implementation,Planned,2025-06-14,2025-07-19,,,305,0,Scott Gonzalez
+435,88,Monitoring,Planned,2025-07-19,2025-08-19,,,305,0,Barbara Walters
+436,89,Case Assessment,Planned,2025-02-23,2025-04-19,,,71,0,Noah Elliott
+437,89,Discovery,Planned,2025-04-09,2025-06-08,,,71,0,Barbara Walters
+438,89,Motion Practice,Planned,2025-06-08,2025-07-24,,,71,0,Barbara Walters
+439,89,Trial Preparation,Planned,2025-07-17,2025-09-03,,,71,0,Noah Elliott
+440,89,Trial,Planned,2025-08-26,2025-10-10,,,71,0,Jessica Diaz
+441,89,Appeal,Planned,2025-10-10,2025-11-11,,,71,0,Noah Elliott
+442,90,Case Assessment,Completed,2025-02-13,2025-03-26,2025-02-13,2025-03-26,412,396,Shannon Powers
+443,90,Discovery,In Progress,2025-03-26,2025-05-03,2025-03-26,,412,365,Shannon Powers
+444,90,Motion Practice,Planned,2025-05-03,2025-06-06,,,412,0,Kimberly Morris
+445,90,Trial Preparation,Planned,2025-06-06,2025-07-07,,,412,0,Shannon Powers
+446,90,Trial,Planned,2025-07-07,2025-08-03,,,412,0,Shannon Powers
+447,90,Appeal,Planned,2025-08-03,2025-08-27,,,412,0,Barbara Walters
+448,91,Case Assessment,Planned,2025-02-03,2025-05-07,,,192,0,Noah Elliott
+449,91,Discovery,Planned,2025-05-07,2025-07-31,,,192,0,Noah Elliott
+450,91,Motion Practice,Planned,2025-07-31,2025-10-16,,,192,0,Noah Elliott
+451,91,Trial Preparation,Planned,2025-10-16,2025-12-24,,,192,0,Noah Elliott
+452,91,Trial,Planned,2025-12-24,2026-02-24,,,192,0,Noah Elliott
+453,91,Appeal,Planned,2026-02-24,2026-04-19,,,192,0,Noah Elliott
+454,92,Due Diligence,Planned,2023-10-05,2023-12-09,,,226,0,Janet Nguyen
+455,92,Negotiation,Planned,2023-12-07,2024-02-07,,,226,0,Crystal Watkins
+456,92,Documentation,Planned,2024-02-07,2024-04-01,,,226,0,Crystal Watkins
+457,92,Closing,Planned,2024-04-01,2024-05-20,,,226,0,Janet Nguyen
+458,93,Due Diligence,Completed,2024-02-04,2024-05-12,2024-02-04,2024-05-12,201,170,Lisa Smith
+459,93,Negotiation,Completed,2024-05-12,2024-08-10,2024-05-12,2024-08-10,201,248,Sandy Price
+460,93,Documentation,Completed,2024-08-01,2024-10-31,2024-08-01,2024-10-31,201,208,Sandy Price
+461,93,Closing,Completed,2024-10-31,2025-01-12,2024-10-31,2025-01-12,201,194,Lisa Smith
+462,94,Document Collection,Completed,2023-12-06,2024-03-04,2023-12-06,2024-03-04,29,35,Noah Elliott
+463,94,Document Review,Completed,2024-03-03,2024-05-25,2024-03-03,2024-05-25,29,30,Noah Elliott
+464,94,Interviews,Completed,2024-05-23,2024-08-07,2024-05-23,2024-08-07,29,28,Noah Elliott
+465,94,Analysis,Completed,2024-08-07,2024-10-13,2024-08-07,2024-10-27,29,26,Noah Elliott
+466,94,Report Preparation,Completed,2024-10-13,2024-12-11,2024-10-13,2024-12-11,29,27,Noah Elliott
+467,95,Research,Planned,2024-10-28,2024-11-29,,,309,0,Jessica Diaz
+468,95,Analysis,Planned,2024-11-26,2024-12-28,,,309,0,Tammy Mayer
+469,95,Draft Opinion,Planned,2024-12-28,2025-01-24,,,309,0,Jessica Diaz
+470,95,Client Review,Planned,2025-01-24,2025-02-17,,,309,0,Tammy Mayer
+471,95,Finalization,Planned,2025-02-17,2025-03-10,,,309,0,Jessica Diaz
+472,96,Document Collection,Completed,2022-11-19,2023-03-10,2022-11-19,2023-03-10,529,633,Noah Elliott
+473,96,Document Review,Delayed,2023-03-03,2023-06-20,2023-03-17,2023-06-26,529,0,Kimberly Morris
+474,96,Interviews,Completed,2023-06-20,2023-09-21,2023-06-20,2023-09-21,529,736,Brenda Robertson
+475,96,Analysis,Completed,2023-09-21,2023-12-13,2023-09-21,2023-12-13,529,676,Brenda Robertson
+476,96,Report Preparation,Completed,2023-12-13,2024-02-25,2023-12-13,2024-02-26,529,633,Noah Elliott
+477,97,Compliance Review,Completed,2024-08-09,2024-09-26,2024-08-09,2024-09-26,199,181,David Williams
+478,97,Gap Analysis,Completed,2024-09-21,2024-11-09,2024-09-21,2024-11-09,199,209,David Williams
+479,97,Remediation Plan,Delayed,2024-11-09,2024-12-19,2024-11-18,2025-01-03,199,0,Sarah Doyle
+480,97,Implementation,Delayed,2024-12-19,2025-01-24,2024-12-28,2025-02-10,199,0,Sarah Doyle
+481,97,Monitoring,Completed,2025-01-14,2025-02-25,2025-01-14,2025-02-25,199,186,Jonathan Winters
+482,98,Compliance Review,Completed,2023-06-05,2023-10-05,2023-06-05,2023-10-22,103,119,Rebecca Boyd
+483,98,Gap Analysis,Completed,2023-10-05,2024-01-25,2023-10-05,2024-01-19,103,106,Gary Nelson
+484,98,Remediation Plan,Completed,2024-01-25,2024-05-06,2024-01-25,2024-05-23,103,92,Gary Nelson
+485,98,Implementation,Completed,2024-05-06,2024-08-06,2024-05-06,2024-07-24,103,106,Rebecca Boyd
+486,98,Monitoring,Completed,2024-08-06,2024-10-26,2024-08-06,2024-10-31,103,138,Gary Nelson
+487,99,Research,Completed,2024-05-28,2024-09-10,2024-05-28,2024-09-13,361,330,Lisa Smith
+488,99,Analysis,Completed,2024-09-10,2024-12-15,2024-09-10,2024-12-14,361,354,Lisa Smith
+489,99,Draft Opinion,Completed,2024-12-15,2025-03-13,2024-12-15,2025-03-29,361,373,Christopher Graves
+490,99,Client Review,Completed,2025-03-13,2025-05-31,2025-03-13,2025-06-11,361,299,Scott Gonzalez
+491,99,Finalization,Completed,2025-05-31,2025-08-09,2025-05-31,2025-08-08,361,357,Christopher Graves
+492,100,Research,In Progress,2025-02-08,2025-05-27,2025-02-08,,311,257,Shannon Powers
+493,100,Analysis,Planned,2025-05-27,2025-09-03,,,311,0,Laurie Watson
+494,100,Draft Opinion,Planned,2025-09-03,2025-12-02,,,311,0,Michael Mcdaniel
+495,100,Client Review,Planned,2025-12-02,2026-02-21,,,311,0,Laurie Watson
+496,100,Finalization,Planned,2026-02-21,2026-05-04,,,311,0,Laurie Watson
+497,101,Document Collection,Planned,2024-06-16,2024-09-09,,,144,0,Gabriel Villa
+498,101,Document Review,Planned,2024-09-09,2024-11-26,,,144,0,Tammy Mayer
+499,101,Interviews,Planned,2024-11-21,2025-02-05,,,144,0,Tammy Mayer
+500,101,Analysis,Planned,2025-02-05,2025-04-09,,,144,0,Tammy Mayer
+501,101,Report Preparation,Planned,2025-04-03,2025-06-04,,,144,0,Tammy Mayer
+502,102,Compliance Review,Planned,2024-11-01,2024-12-13,,,372,0,Jonathan Winters
+503,102,Gap Analysis,Planned,2024-12-13,2025-01-20,,,372,0,Jonathan Winters
+504,102,Remediation Plan,Planned,2025-01-19,2025-02-24,,,372,0,Jonathan Winters
+505,102,Implementation,Planned,2025-02-24,2025-03-27,,,372,0,Jonathan Winters
+506,102,Monitoring,Planned,2025-03-27,2025-04-24,,,372,0,Sarah Doyle
+507,103,Research,Completed,2024-09-06,2024-11-17,2024-09-06,2024-11-10,336,333,Edward Walker
+508,103,Analysis,Completed,2024-11-17,2025-01-22,2024-11-17,2025-01-22,336,377,Edward Walker
+509,103,Draft Opinion,Completed,2025-01-15,2025-03-23,2025-01-15,2025-03-18,336,273,Scott Gonzalez
+510,103,Client Review,Completed,2025-03-23,2025-05-16,2025-03-23,2025-05-11,336,457,Edward Walker
+511,103,Finalization,Delayed,2025-05-16,2025-07-03,2025-05-28,2025-07-20,336,0,Edward Walker
+512,104,Document Collection,Planned,2024-10-05,2024-12-29,,,127,0,Christopher Graves
+513,104,Document Review,Planned,2024-12-29,2025-03-17,,,127,0,Christopher Graves
+514,104,Interviews,Planned,2025-03-17,2025-05-27,,,127,0,Kimberly Morris
+515,104,Analysis,Planned,2025-05-26,2025-07-30,,,127,0,Kimberly Morris
+516,104,Report Preparation,Planned,2025-07-21,2025-09-24,,,127,0,Kimberly Morris
+517,105,Research,Completed,2023-08-05,2023-09-20,2023-08-05,2023-09-18,129,125,Michael Mcdaniel
+518,105,Analysis,Delayed,2023-09-20,2023-11-01,2023-09-30,2023-11-10,129,0,Michael Mcdaniel
+519,105,Draft Opinion,Completed,2023-10-27,2023-12-09,2023-10-27,2023-11-28,129,138,Michael Mcdaniel
+520,105,Client Review,Completed,2023-12-09,2024-01-12,2023-12-09,2024-01-17,129,119,Gabriel Villa
+521,105,Finalization,Completed,2024-01-12,2024-02-12,2024-01-12,2024-02-10,129,134,Michael Mcdaniel
+522,106,Research,Completed,2024-12-10,2025-01-23,2024-12-10,2025-01-25,589,816,Julie Roman
+523,106,Analysis,Completed,2025-01-23,2025-03-05,2025-01-23,2025-03-05,589,718,Brenda Robertson
+524,106,Draft Opinion,In Progress,2025-03-05,2025-04-11,2025-03-05,,589,477,Scott Gonzalez
+525,106,Client Review,Planned,2025-04-11,2025-05-14,,,589,0,Noah Elliott
+526,106,Finalization,Planned,2025-05-14,2025-06-12,,,589,0,Scott Gonzalez
+527,107,Due Diligence,Planned,2022-09-05,2022-10-25,,,193,0,David Williams
+528,107,Negotiation,Planned,2022-10-25,2022-12-10,,,193,0,David Williams
+529,107,Documentation,Planned,2022-12-10,2023-01-21,,,193,0,David Williams
+530,107,Closing,Planned,2023-01-21,2023-02-27,,,193,0,David Williams
+531,108,Research,Planned,2023-07-11,2023-08-29,,,207,0,Tammy Mayer
+532,108,Analysis,Planned,2023-08-19,2023-10-13,,,207,0,Tammy Mayer
+533,108,Draft Opinion,Planned,2023-10-08,2023-11-23,,,207,0,Tammy Mayer
+534,108,Client Review,Planned,2023-11-23,2023-12-30,,,207,0,Tammy Mayer
+535,108,Finalization,Planned,2023-12-20,2024-02-01,,,207,0,Tammy Mayer
+536,109,Compliance Review,Completed,2024-12-16,2025-01-27,2024-12-16,2025-02-06,341,357,John Vang
+537,109,Gap Analysis,Completed,2025-01-27,2025-03-06,2025-01-27,2025-03-16,341,329,John Vang
+538,109,Remediation Plan,In Progress,2025-03-01,2025-04-10,2025-03-01,,341,295,Edward Walker
+539,109,Implementation,Planned,2025-04-10,2025-05-11,,,341,0,Tammy Mayer
+540,109,Monitoring,Planned,2025-05-11,2025-06-08,,,341,0,Tammy Mayer
+541,110,Research,Completed,2022-07-26,2022-11-04,2022-07-26,2022-10-22,163,176,Kimberly Morris
+542,110,Analysis,Completed,2022-11-04,2023-02-05,2022-11-04,2023-01-18,163,135,Kimberly Morris
+543,110,Draft Opinion,Completed,2023-02-05,2023-04-30,2023-02-05,2023-05-11,163,226,Kimberly Morris
+544,110,Client Review,Completed,2023-04-30,2023-07-15,2023-04-30,2023-07-27,163,144,Kimberly Morris
+545,110,Finalization,Completed,2023-07-15,2023-09-20,2023-07-15,2023-09-14,163,145,Kimberly Morris
+546,111,Research,Planned,2024-08-11,2024-11-13,,,18,0,Alyssa Morales
+547,111,Analysis,Planned,2024-11-07,2025-02-07,,,18,0,Dwayne Jacobson
+548,111,Draft Opinion,Planned,2025-02-07,2025-04-26,,,18,0,Cheyenne Anderson
+549,111,Client Review,Planned,2025-04-26,2025-07-05,,,18,0,Dwayne Jacobson
+550,111,Finalization,Planned,2025-07-05,2025-09-05,,,18,0,Dwayne Jacobson
+551,112,Case Assessment,Completed,2024-07-21,2024-08-13,2024-07-21,2024-08-17,45,49,Kimberly Morris
+552,112,Discovery,Completed,2024-08-13,2024-09-03,2024-08-13,2024-09-04,45,60,Kimberly Morris
+553,112,Motion Practice,Completed,2024-09-03,2024-09-22,2024-09-03,2024-09-19,45,60,Kimberly Morris
+554,112,Trial Preparation,Delayed,2024-09-15,2024-10-09,2024-09-19,2024-10-13,45,0,Kimberly Morris
+555,112,Trial,Completed,2024-10-09,2024-10-24,2024-10-09,2024-10-25,45,54,Kimberly Morris
+556,112,Appeal,Delayed,2024-10-24,2024-11-06,2024-11-03,2024-11-12,45,0,Kimberly Morris
+557,113,Case Assessment,Completed,2023-04-30,2023-09-01,2023-04-30,2023-09-20,385,345,Brenda Robertson
+558,113,Discovery,Completed,2023-08-23,2023-12-24,2023-08-23,2023-11-22,385,389,David Williams
+559,113,Motion Practice,Completed,2023-12-24,2024-04-06,2023-12-24,2024-04-16,385,343,David Williams
+560,113,Trial Preparation,Completed,2024-04-06,2024-07-08,2024-04-06,2024-07-05,385,515,Gary Vasquez
+561,113,Trial,Completed,2024-07-08,2024-09-29,2024-07-08,2024-09-19,385,312,Brenda Robertson
+562,113,Appeal,Completed,2024-09-29,2024-12-10,2024-09-29,2024-12-23,385,355,Gary Vasquez
+563,114,Due Diligence,Planned,2022-10-08,2023-03-09,,,186,0,Scott Gonzalez
+564,114,Negotiation,Planned,2023-03-09,2023-07-26,,,186,0,Scott Gonzalez
+565,114,Documentation,Planned,2023-07-25,2023-11-29,,,186,0,Scott Gonzalez
+566,114,Closing,Planned,2023-11-29,2024-03-22,,,186,0,Scott Gonzalez
+567,115,Due Diligence,Planned,2024-12-18,2025-04-03,,,68,0,Brian Williams
+568,115,Negotiation,Planned,2025-04-03,2025-07-09,,,68,0,Brian Williams
+569,115,Documentation,Planned,2025-07-09,2025-10-06,,,68,0,Brian Williams
+570,115,Closing,Planned,2025-10-06,2025-12-25,,,68,0,Brian Williams
+571,116,Research,Completed,2024-10-17,2025-02-09,2024-10-17,2025-02-09,279,267,Mary Jones
+572,116,Analysis,In Progress,2025-01-30,2025-05-25,2025-01-30,,279,287,Mary Jones
+573,116,Draft Opinion,Planned,2025-05-25,2025-08-29,,,279,0,Mary Jones
+574,116,Client Review,Planned,2025-08-23,2025-11-23,,,279,0,Scott Gonzalez
+575,116,Finalization,Planned,2025-11-23,2026-02-07,,,279,0,Brian Barnes
+576,117,Research,Completed,2023-05-18,2023-08-05,2023-05-18,2023-08-17,130,176,David Williams
+577,117,Analysis,Completed,2023-08-05,2023-10-17,2023-08-05,2023-10-22,130,179,David Williams
+578,117,Draft Opinion,Delayed,2023-10-17,2023-12-22,2023-10-26,2024-01-03,130,0,David Williams
+579,117,Client Review,Completed,2023-12-22,2024-02-19,2023-12-22,2024-03-01,130,159,David Williams
+580,117,Finalization,Completed,2024-02-19,2024-04-12,2024-02-19,2024-04-15,130,166,David Williams
+581,118,Document Collection,Planned,2025-01-25,2025-05-20,,,161,0,Scott Gonzalez
+582,118,Document Review,Planned,2025-05-20,2025-09-02,,,161,0,Christopher Graves
+583,118,Interviews,Planned,2025-09-02,2025-12-07,,,161,0,Mary Jones
+584,118,Analysis,Planned,2025-12-07,2026-03-03,,,161,0,Christopher Graves
+585,118,Report Preparation,Planned,2026-03-03,2026-05-18,,,161,0,Mary Jones
+586,119,Research,Planned,2024-09-26,2025-01-07,,,87,0,Kimberly Morris
+587,119,Analysis,Planned,2025-01-07,2025-04-12,,,87,0,Kimberly Morris
+588,119,Draft Opinion,Planned,2025-04-12,2025-07-07,,,87,0,Kimberly Morris
+589,119,Client Review,Planned,2025-07-07,2025-09-22,,,87,0,Barbara Walters
+590,119,Finalization,Planned,2025-09-22,2025-11-30,,,87,0,Barbara Walters
+591,120,Research,Planned,2024-07-03,2024-07-29,,,63,0,Tammy Mayer
+592,120,Analysis,Planned,2024-07-29,2024-08-22,,,63,0,Michelle Wade
+593,120,Draft Opinion,Planned,2024-08-22,2024-09-13,,,63,0,Tammy Mayer
+594,120,Client Review,Planned,2024-09-11,2024-10-02,,,63,0,Michelle Wade
+595,120,Finalization,Planned,2024-10-02,2024-10-19,,,63,0,Tammy Mayer
+596,121,Compliance Review,Planned,2024-03-24,2024-07-17,,,60,0,Rebecca Boyd
+597,121,Gap Analysis,Planned,2024-07-17,2024-10-30,,,60,0,Rebecca Boyd
+598,121,Remediation Plan,Planned,2024-10-30,2025-02-03,,,60,0,Rebecca Boyd
+599,121,Implementation,Planned,2025-02-03,2025-04-30,,,60,0,Gary Nelson
+600,121,Monitoring,Planned,2025-04-30,2025-07-15,,,60,0,Gary Nelson
+601,122,Document Collection,Completed,2024-08-24,2024-09-24,2024-08-24,2024-09-24,116,105,Scott Gonzalez
+602,122,Document Review,Completed,2024-09-24,2024-10-22,2024-09-24,2024-10-22,116,147,Scott Gonzalez
+603,122,Interviews,Completed,2024-10-20,2024-11-17,2024-10-20,2024-11-18,116,125,Scott Gonzalez
+604,122,Analysis,Completed,2024-11-08,2024-12-10,2024-11-08,2024-12-10,116,131,Scott Gonzalez
+605,122,Report Preparation,Completed,2024-11-30,2024-12-30,2024-11-30,2024-12-30,116,130,Scott Gonzalez
+606,123,Case Assessment,Planned,2024-08-04,2024-09-13,,,36,0,Tammy Mayer
+607,123,Discovery,Planned,2024-09-13,2024-10-19,,,36,0,Tammy Mayer
+608,123,Motion Practice,Planned,2024-10-19,2024-11-21,,,36,0,Tammy Mayer
+609,123,Trial Preparation,Planned,2024-11-12,2024-12-21,,,36,0,Tammy Mayer
+610,123,Trial,Planned,2024-12-21,2025-01-16,,,36,0,Tammy Mayer
+611,123,Appeal,Planned,2025-01-16,2025-02-08,,,36,0,Tammy Mayer
+612,124,Document Collection,Planned,2024-07-27,2024-11-13,,,38,0,Jordan Snyder
+613,124,Document Review,Planned,2024-11-13,2025-02-21,,,38,0,Jordan Snyder
+614,124,Interviews,Planned,2025-02-21,2025-05-23,,,38,0,Jordan Snyder
+615,124,Analysis,Planned,2025-05-14,2025-08-12,,,38,0,Noah Elliott
+616,124,Report Preparation,Planned,2025-08-12,2025-10-23,,,38,0,Jordan Snyder
+617,125,Compliance Review,Completed,2025-02-24,2025-05-20,2025-02-24,2025-06-02,150,146,Tammy Mayer
+618,125,Gap Analysis,Completed,2025-05-20,2025-08-06,2025-05-20,2025-08-12,150,120,Tammy Mayer
+619,125,Remediation Plan,Completed,2025-08-06,2025-10-16,2025-08-06,2025-10-11,150,180,Tammy Mayer
+620,125,Implementation,Completed,2025-10-08,2025-12-19,2025-10-08,2025-12-10,150,156,Tammy Mayer
+621,125,Monitoring,Completed,2025-12-17,2026-02-14,2025-12-17,2026-02-21,150,200,Tammy Mayer

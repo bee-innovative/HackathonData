@@ -1,0 +1,46 @@
+attorney_id,name,position,practice_area,specialization,years_experience,billing_rate,cost_rate,target_billable_hours,capacity_hours
+1,Noah Elliott,Partner,Bankruptcy,Family Law,16,535,243,1737,2149
+2,Edward Walker,Associate,Tax,Environmental Law,3,360,118,2085,2372
+3,Jeffrey Black,Of Counsel,Bankruptcy,Privacy Law,40,523,153,1672,2062
+4,Keith Ryan,Associate,Bankruptcy,Patent Law,3,319,135,2011,2464
+5,Victoria Patterson,Senior Associate,Mergers & Acquisitions,Patent Law,8,424,165,2074,2551
+6,Tammy Mayer,Partner,Corporate,Securities,17,802,281,1864,2187
+7,Brian Barnes,Junior Associate,Employment,Healthcare Compliance,3,258,95,1942,2280
+8,Rebecca Boyd,Of Counsel,Tax,Environmental Law,35,415,241,1506,1787
+9,David Williams,Partner,Bankruptcy,Civil Litigation,16,641,199,1839,2234
+10,Lisa Smith,Senior Associate,Employment,White Collar,8,381,136,1911,2253
+11,Jonathan Winters,Junior Associate,Intellectual Property,Antitrust,2,200,97,1977,2228
+12,Gabriel Villa,Senior Associate,Bankruptcy,Healthcare Compliance,9,498,150,2003,2464
+13,Brenda Robertson,Senior Associate,Bankruptcy,Privacy Law,7,407,135,1929,2206
+14,Kimberly Morris,Partner,Litigation,Antitrust,23,670,317,1708,2063
+15,Laura Davis,Associate,Litigation,Technology,7,391,122,2116,2531
+16,Shannon Powers,Junior Associate,Real Estate,Technology,0,263,81,1954,2214
+17,Michelle Wade,Senior Associate,Litigation,Family Law,9,392,170,2033,2374
+18,Kenneth Torres,Associate,Mergers & Acquisitions,Trademark Law,4,285,102,2002,2264
+19,Brian Williams,Partner,Litigation,White Collar,17,656,235,1752,2136
+20,Mark Powell,Associate,Bankruptcy,Antitrust,4,354,105,2004,2461
+21,Gary Vasquez,Of Counsel,Bankruptcy,White Collar,34,561,244,1503,1725
+22,Dalton Peterson,Of Counsel,Corporate,Technology,40,654,209,1755,2042
+23,Laurie Watson,Associate,Bankruptcy,International Trade,3,370,139,2075,2334
+24,Frank Smith,Of Counsel,Litigation,Trademark Law,17,573,209,1649,1956
+25,Janet Nguyen,Partner,Banking,Contract Law,19,462,270,1880,2135
+26,Cheyenne Anderson,Junior Associate,Litigation,Environmental Law,3,287,96,1845,2036
+27,John Vang,Associate,Intellectual Property,Antitrust,7,384,138,2127,2352
+28,Jessica Diaz,Senior Associate,Real Estate,Environmental Law,7,373,181,2093,2358
+29,Alyssa Stanton,Of Counsel,Banking,Technology,24,581,260,1707,1878
+30,Marisa Pena,Associate,Corporate,White Collar,6,330,112,2107,2425
+31,Gary Nelson,Junior Associate,Tax,Antitrust,0,220,97,1884,2201
+32,Deborah Gomez,Senior Associate,Litigation,International Trade,12,381,146,2068,2556
+33,Sandy Price,Senior Associate,Employment,Securities,8,389,143,1935,2238
+34,Mary Jones,Partner,Employment,Media Law,23,614,241,1797,2116
+35,Christopher Rogers,Associate,Litigation,Environmental Law,5,372,134,2023,2400
+36,Barbara Walters,Senior Associate,Real Estate,Environmental Law,11,461,184,1952,2346
+37,Sarah Doyle,Junior Associate,Intellectual Property,White Collar,3,232,103,1960,2268
+38,Julie Roman,Senior Associate,Corporate,Media Law,8,373,160,1938,2387
+39,Alyssa Morales,Partner,Mergers & Acquisitions,Environmental Law,12,817,264,1752,2171
+40,Crystal Watkins,Partner,Corporate,White Collar,31,622,280,1721,1909
+41,Dwayne Jacobson,Of Counsel,Litigation,Healthcare Compliance,17,692,190,1575,1793
+42,Jordan Snyder,Junior Associate,Mergers & Acquisitions,Trademark Law,4,204,93,1831,2086
+43,Christopher Graves,Junior Associate,Employment,Family Law,2,271,85,1957,2356
+44,Scott Gonzalez,Partner,Corporate,Privacy Law,26,454,185,1858,2104
+45,Michael Mcdaniel,Junior Associate,Bankruptcy,White Collar,3,297,97,1973,2446

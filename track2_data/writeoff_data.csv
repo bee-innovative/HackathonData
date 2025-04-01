@@ -1,0 +1,78 @@
+writeoff_id,matter_id,date,amount,reason,approved_by
+1,2,2025-03-02,66237.44,Time Entry Errors,David Williams
+2,2,2024-03-28,18567.01,Time Entry Errors,Scott Gonzalez
+3,2,2024-03-30,52050.14,Time Entry Errors,Kimberly Morris
+4,2,2024-09-29,16560.96,Courtesy Discount,Kimberly Morris
+5,6,2024-10-23,14818.66,Exceeded Budget,David Williams
+6,9,2024-07-02,500.0,Time Entry Errors,Janet Nguyen
+7,13,2024-08-08,23317.61,Time Entry Errors,Kimberly Morris
+8,24,2024-06-17,58461.53,Associate Training Time,David Williams
+9,24,2024-11-11,63839.52,Project Mismanagement,David Williams
+10,30,2024-12-21,30959.96,Courtesy Discount,Tammy Mayer
+11,35,2025-01-27,46613.88,Inefficient Staffing,Scott Gonzalez
+12,47,2024-04-01,2843.2,Client Disputed Hours,Crystal Watkins
+13,51,2025-02-23,5814.57,Inefficient Staffing,Brian Williams
+14,54,2025-02-18,8742.11,Strategic Client Relationship,Mary Jones
+15,54,2024-12-27,5983.57,Client Disputed Hours,Mary Jones
+16,54,2024-12-24,3882.27,Project Mismanagement,Mary Jones
+17,54,2024-11-20,11589.74,Inefficient Staffing,Mary Jones
+18,55,2024-08-16,8202.26,Exceeded Budget,Alyssa Morales
+19,56,2024-08-16,89972.56,Strategic Client Relationship,Brian Williams
+20,57,2024-10-25,13463.71,Duplicate Work,Janet Nguyen
+21,63,2025-01-25,11873.29,Billing Guideline Violations,Mary Jones
+22,63,2025-01-06,22420.38,Time Entry Errors,Mary Jones
+23,63,2024-09-02,8575.86,Inefficient Staffing,Mary Jones
+24,66,2025-01-27,6072.87,Strategic Client Relationship,Brian Williams
+25,68,2024-09-28,11041.78,Duplicate Work,David Williams
+26,68,2024-09-30,5857.07,Strategic Client Relationship,David Williams
+27,69,2024-08-30,36358.28,Associate Training Time,Kimberly Morris
+28,71,2024-12-12,85758.82,Project Mismanagement,Kimberly Morris
+29,74,2024-12-09,3835.46,Client Disputed Hours,Noah Elliott
+30,75,2024-07-22,18841.92,Billing Guideline Violations,Brian Williams
+31,75,2024-12-16,91658.63,Inefficient Staffing,Brian Williams
+32,75,2024-07-17,12152.12,Project Mismanagement,Brian Williams
+33,80,2025-03-28,11403.5,Courtesy Discount,Janet Nguyen
+34,87,2024-09-20,58541.47,Time Entry Errors,Scott Gonzalez
+35,90,2025-03-03,13842.03,Strategic Client Relationship,David Williams
+36,94,2025-01-21,1692.8,Billing Guideline Violations,Kimberly Morris
+37,97,2024-09-19,6336.77,Duplicate Work,Scott Gonzalez
+38,99,2024-06-19,13352.79,Associate Training Time,Scott Gonzalez
+39,103,2025-03-02,52750.22,Project Mismanagement,Mary Jones
+40,113,2024-10-14,96689.89,Billing Guideline Violations,Crystal Watkins
+41,113,2024-03-28,79861.76,Exceeded Budget,Brian Williams
+42,113,2024-09-17,44296.38,Inefficient Staffing,Kimberly Morris
+43,122,2024-10-20,3833.42,Billing Guideline Violations,Scott Gonzalez
+44,125,2025-03-13,13490.05,Billing Guideline Violations,Tammy Mayer
+45,27,2025-03-17,3024.59,Billing Guideline Violations,Noah Elliott
+46,27,2025-03-16,5151.92,Strategic Client Relationship,Noah Elliott
+47,27,2025-03-28,2037.01,Exceeded Budget,Noah Elliott
+48,27,2025-03-28,2816.14,Strategic Client Relationship,Noah Elliott
+49,42,2025-02-02,14069.01,Courtesy Discount,Janet Nguyen
+50,42,2025-01-13,10528.76,Duplicate Work,Janet Nguyen
+51,99,2025-02-24,66151.29,Courtesy Discount,Scott Gonzalez
+52,99,2025-02-16,37913.83,Inefficient Staffing,Scott Gonzalez
+53,60,2025-03-12,98972.24,Time Entry Errors,Mary Jones
+54,60,2025-03-05,60909.7,Billing Guideline Violations,Mary Jones
+55,60,2025-03-18,93522.67,Duplicate Work,Mary Jones
+56,87,2025-03-13,26380.94,Client Disputed Hours,Janet Nguyen
+57,87,2025-03-16,31207.53,Client Disputed Hours,Janet Nguyen
+58,87,2025-03-10,69627.36,Client Disputed Hours,Janet Nguyen
+59,87,2025-02-25,43564.17,Client Disputed Hours,Janet Nguyen
+60,62,2025-03-18,83486.6,Strategic Client Relationship,Mary Jones
+61,62,2025-02-27,55574.89,Billing Guideline Violations,Mary Jones
+62,62,2025-03-21,27554.46,Billing Guideline Violations,Mary Jones
+63,75,2024-12-31,89197.57,Strategic Client Relationship,Scott Gonzalez
+64,56,2024-12-29,108704.75,Exceeded Budget,Janet Nguyen
+65,93,2024-12-28,34567.98,Exceeded Budget,Scott Gonzalez
+66,54,2024-12-21,15021.53,Exceeded Budget,Brian Williams
+67,74,2024-12-23,18045.22,Strategic Client Relationship,Tammy Mayer
+68,122,2024-12-29,11835.35,Strategic Client Relationship,Janet Nguyen
+69,96,2024-12-21,60493.92,Courtesy Discount,David Williams
+70,116,2024-12-21,41730.64,Courtesy Discount,Brian Williams
+71,6,2024-12-22,36227.04,Strategic Client Relationship,Alyssa Morales
+72,53,2024-12-19,4884.08,Courtesy Discount,Alyssa Morales
+73,9,2024-12-17,661.42,Courtesy Discount,Alyssa Morales
+74,67,2024-12-21,53393.5,Courtesy Discount,Tammy Mayer
+75,106,2024-12-29,112030.04,Courtesy Discount,Crystal Watkins
+76,103,2024-12-20,86825.2,Strategic Client Relationship,Brian Williams
+77,87,2024-12-29,60277.77,Exceeded Budget,Mary Jones
