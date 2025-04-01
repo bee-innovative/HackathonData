@@ -1,0 +1,171 @@
+opportunity_id,client_id,name,description,stage,estimated_value,created_date,close_date,probability,sales_rep
+1,1,Cloud Migration for Johnson LLC,Cloud Migration project involving incubate seamless e-business,Initial Contact,15492.24,2025-02-28,,0.18,Thomas Brown
+2,2,Mobile App for Taylor Inc Wealth,Mobile App project involving exploit value-added web services,Negotiation,24414.95,2022-01-27,,0.77,Thomas Brown
+3,2,Security Audit for Taylor Inc Wealth,Security Audit project involving transition seamless web services,Proposal,19422.89,2021-10-14,,0.58,Emma Davis
+4,3,"AI Implementation for Mcclain, Miller and Henderson",AI Implementation project involving transform global portals,Closed Lost,82943.91,2022-10-06,2023-01-12,0.0,David Wilson
+5,4,Cloud Infrastructure for Robinson PLC Software,Cloud Infrastructure project involving embrace sticky schemas,Closed Won,103592.33,2023-11-09,2024-04-12,1.0,Emma Davis
+6,4,AI Implementation for Robinson PLC Software,AI Implementation project involving orchestrate real-time technologies,Closed Lost,119590.51,2022-12-03,2023-03-04,0.0,Thomas Brown
+7,4,AI Implementation for Robinson PLC Software,AI Implementation project involving expedite best-of-breed supply-chains,Negotiation,190561.55,2024-02-19,,0.74,Lisa Johnson
+8,4,AI Strategy for Robinson PLC Software,AI Strategy project involving architect back-end mindshare,Closed Won,101582.93,2023-03-25,2023-06-07,1.0,Lisa Johnson
+9,6,"Mobile App for Gardner, Robinson and Lawrence",Mobile App project involving synthesize dot-com markets,Closed Won,70553.02,2021-02-26,2021-06-18,1.0,David Wilson
+10,6,"AI Implementation for Gardner, Robinson and Lawrence",AI Implementation project involving evolve cutting-edge niches,Closed Won,173991.4,2022-02-22,2022-04-08,1.0,Thomas Brown
+11,7,AI Implementation for Wolfe LLC Wellness,AI Implementation project involving integrate clicks-and-mortar supply-chains,Closed Lost,34659.58,2021-11-12,2022-03-20,0.0,Emma Davis
+12,7,Web Development for Wolfe LLC Wellness,Web Development project involving revolutionize end-to-end functionalities,Closed Won,13945.6,2021-11-19,2022-05-12,1.0,Carlos Mendez
+13,10,"Cloud Infrastructure for Baker, Williams and Stevens",Cloud Infrastructure project involving morph granular systems,Proposal,47144.91,2024-10-14,,0.44,Emma Davis
+14,10,"Digital Transformation for Baker, Williams and Stevens",Digital Transformation project involving engage cutting-edge schemas,Closed Won,69695.3,2024-02-12,2024-03-02,1.0,Emma Davis
+15,11,AI Implementation for Miller-Carter Industries,AI Implementation project involving implement one-to-one partnerships,Negotiation,25281.14,2024-12-09,,0.84,Carlos Mendez
+16,12,"AI Strategy for Mcclure, Ward and Lee",AI Strategy project involving matrix B2C users,Closed Won,206138.98,2021-01-27,2021-03-24,1.0,Thomas Brown
+17,12,"AI Strategy for Mcclure, Ward and Lee",AI Strategy project involving integrate out-of-the-box applications,Proposal,99536.22,2021-01-25,,0.49,Carlos Mendez
+18,12,"Cloud Infrastructure for Mcclure, Ward and Lee",Cloud Infrastructure project involving engage B2B e-commerce,Closed Lost,166544.07,2022-01-21,2022-04-16,0.0,Carlos Mendez
+19,14,AI Strategy for Delacruz Group Banking,AI Strategy project involving enable revolutionary content,Closed Lost,136252.05,2023-02-08,2023-08-07,0.0,Lisa Johnson
+20,14,Cloud Migration for Delacruz Group Banking,Cloud Migration project involving disintermediate revolutionary convergence,Closed Won,368829.23,2022-02-25,2022-08-02,1.0,Carlos Mendez
+21,14,Web Development for Delacruz Group Banking,Web Development project involving architect interactive web services,Proposal,459108.37,2022-01-23,,0.46,Thomas Brown
+22,14,AI Implementation for Delacruz Group Banking,AI Implementation project involving transform synergistic schemas,Closed Lost,503293.88,2022-02-24,2022-05-11,0.0,Thomas Brown
+23,15,AI Implementation for Reid-Diaz,AI Implementation project involving matrix transparent e-business,Closed Won,87603.26,2024-11-01,2025-03-02,1.0,Carlos Mendez
+24,15,AI Strategy for Reid-Diaz,AI Strategy project involving extend B2C action-items,Negotiation,177577.13,2025-02-16,,0.83,Thomas Brown
+25,16,Cloud Migration for Clark-Adams,Cloud Migration project involving cultivate granular ROI,Closed Won,16542.98,2024-10-26,2025-04-14,1.0,Emma Davis
+26,17,"AI Implementation for Jones, Reid and Ferguson",AI Implementation project involving matrix transparent web-readiness,Initial Contact,71602.07,2025-02-19,,0.09,Carlos Mendez
+27,17,"AI Implementation for Jones, Reid and Ferguson",AI Implementation project involving reinvent open-source e-markets,Initial Contact,70472.76,2025-02-14,,0.09,Lisa Johnson
+28,18,Web Development for Ford LLC Shop,Web Development project involving exploit interactive niches,Initial Contact,224159.07,2025-02-14,,0.08,Thomas Brown
+29,18,AI Implementation for Ford LLC Shop,AI Implementation project involving leverage sticky architectures,Proposal,293975.33,2025-02-07,,0.47,Carlos Mendez
+30,18,AI Strategy for Ford LLC Shop,AI Strategy project involving cultivate robust info-mediaries,Closed Lost,497253.23,2025-01-29,2025-03-31,0.0,Carlos Mendez
+31,18,Web Development for Ford LLC Shop,Web Development project involving enhance 24/365 bandwidth,Initial Contact,341315.27,2025-02-21,,0.1,Lisa Johnson
+32,18,AI Strategy for Ford LLC Shop,AI Strategy project involving seize extensible e-services,Initial Contact,605039.78,2025-02-01,,0.18,Thomas Brown
+33,19,"Security Audit for Hawkins, Cohen and Cameron",Security Audit project involving enhance proactive web services,Negotiation,105227.09,2022-03-06,,0.86,Emma Davis
+34,19,"Cloud Migration for Hawkins, Cohen and Cameron",Cloud Migration project involving aggregate wireless supply-chains,Closed Won,222598.93,2021-01-25,2021-04-26,1.0,Thomas Brown
+35,19,"Web Development for Hawkins, Cohen and Cameron",Web Development project involving empower innovative niches,Closed Won,298248.61,2022-01-11,2022-05-18,1.0,Emma Davis
+36,19,"Security Audit for Hawkins, Cohen and Cameron",Security Audit project involving seize wireless methodologies,Needs Analysis,203317.03,2021-01-11,,0.35,David Wilson
+37,20,Cloud Migration for Underwood LLC Fabrication,Cloud Migration project involving e-enable open-source web-readiness,Closed Won,134986.82,2022-12-28,2023-06-12,1.0,Carlos Mendez
+38,20,Web Development for Underwood LLC Fabrication,Web Development project involving embrace back-end ROI,Closed Won,294795.89,2023-02-10,2023-04-15,1.0,Lisa Johnson
+39,20,Web Development for Underwood LLC Fabrication,Web Development project involving benchmark back-end paradigms,Closed Won,296710.26,2023-01-24,2023-07-02,1.0,Emma Davis
+40,21,AI Implementation for Jones-Gentry,AI Implementation project involving transform user-centric convergence,Needs Analysis,17362.08,2024-11-18,,0.21,Carlos Mendez
+41,21,Security Audit for Jones-Gentry,Security Audit project involving drive turn-key e-commerce,Negotiation,5290.22,2025-02-14,,0.8,Lisa Johnson
+42,22,"Cloud Migration for Edwards, Rios and Foster",Cloud Migration project involving expedite one-to-one architectures,Closed Won,185519.49,2024-11-19,2025-05-14,1.0,Emma Davis
+43,22,"Cloud Migration for Edwards, Rios and Foster",Cloud Migration project involving productize dynamic portals,Proposal,139404.67,2024-10-07,,0.48,Emma Davis
+44,22,"Cloud Migration for Edwards, Rios and Foster",Cloud Migration project involving integrate user-centric synergies,Initial Contact,171229.34,2025-02-03,,0.07,David Wilson
+45,23,AI Implementation for Thomas-Taylor,AI Implementation project involving mesh 24/365 relationships,Closed Won,560594.29,2023-09-28,2024-02-16,1.0,Lisa Johnson
+46,23,Mobile App for Thomas-Taylor,Mobile App project involving brand innovative web services,Closed Won,375135.92,2022-12-20,2023-01-10,1.0,Lisa Johnson
+47,23,AI Implementation for Thomas-Taylor,AI Implementation project involving redefine open-source e-business,Negotiation,590887.54,2023-02-03,,0.85,Lisa Johnson
+48,23,Web Development for Thomas-Taylor,Web Development project involving harness 24/7 content,Closed Lost,147917.48,2023-01-14,2023-03-31,0.0,Lisa Johnson
+49,23,Web Development for Thomas-Taylor,Web Development project involving deliver extensible web services,Closed Lost,327425.88,2023-11-25,2024-03-05,0.0,David Wilson
+50,25,AI Implementation for Cox-Osborn,AI Implementation project involving deploy world-class interfaces,Closed Won,142488.22,2022-01-29,2022-05-08,1.0,Emma Davis
+51,25,Cloud Migration for Cox-Osborn,Cloud Migration project involving scale distributed schemas,Closed Won,113218.95,2021-03-27,2021-04-21,1.0,Emma Davis
+52,25,Security Audit for Cox-Osborn,Security Audit project involving enable dynamic e-markets,Proposal,54008.7,2021-10-15,,0.59,Emma Davis
+53,26,"Security Audit for Snyder, Campos and Callahan",Security Audit project involving repurpose enterprise methodologies,Needs Analysis,18101.56,2024-02-24,,0.36,Emma Davis
+54,27,"AI Strategy for Moore, Becker and Carlson",AI Strategy project involving extend virtual e-business,Closed Won,32382.75,2024-12-27,2025-05-14,1.0,David Wilson
+55,27,"Security Audit for Moore, Becker and Carlson",Security Audit project involving maximize seamless interfaces,Negotiation,24889.53,2025-01-16,,0.81,Carlos Mendez
+56,27,"Cloud Infrastructure for Moore, Becker and Carlson",Cloud Infrastructure project involving engage clicks-and-mortar content,Proposal,72018.28,2024-12-20,,0.45,Lisa Johnson
+57,28,AI Implementation for Carlson-Mcdonald,AI Implementation project involving envisioneer best-of-breed e-commerce,Closed Won,47161.46,2023-11-20,2024-02-01,1.0,Carlos Mendez
+58,29,"Cloud Migration for Valencia, Smith and Le",Cloud Migration project involving generate world-class bandwidth,Closed Won,285017.72,2022-11-05,2023-02-15,1.0,Emma Davis
+59,29,"Mobile App for Valencia, Smith and Le",Mobile App project involving grow visionary methodologies,Proposal,198192.67,2024-02-06,,0.48,Carlos Mendez
+60,29,"AI Implementation for Valencia, Smith and Le",AI Implementation project involving architect collaborative communities,Closed Won,586429.11,2022-11-18,2022-12-14,1.0,Carlos Mendez
+61,29,"Cloud Migration for Valencia, Smith and Le",Cloud Migration project involving repurpose strategic technologies,Closed Won,565467.52,2023-10-22,2023-12-10,1.0,David Wilson
+62,29,"AI Strategy for Valencia, Smith and Le",AI Strategy project involving deliver open-source infrastructures,Proposal,242486.17,2024-01-21,,0.46,Lisa Johnson
+63,30,"Cloud Infrastructure for Potter, Mack and Peterson",Cloud Infrastructure project involving transition web-enabled methodologies,Closed Lost,48775.05,2021-11-22,2022-04-08,0.0,Carlos Mendez
+64,30,"Mobile App for Potter, Mack and Peterson",Mobile App project involving monetize magnetic solutions,Closed Lost,74432.38,2020-10-19,2021-02-11,0.0,Carlos Mendez
+65,30,"Cloud Migration for Potter, Mack and Peterson",Cloud Migration project involving orchestrate proactive paradigms,Closed Won,84386.81,2021-02-22,2021-05-14,1.0,Carlos Mendez
+66,32,"Digital Transformation for Baker, Mason and White",Digital Transformation project involving incentivize collaborative e-business,Closed Won,48797.7,2024-02-09,2024-07-28,1.0,Emma Davis
+67,32,"Cloud Migration for Baker, Mason and White",Cloud Migration project involving iterate intuitive bandwidth,Initial Contact,80045.48,2025-01-20,,0.06,Lisa Johnson
+68,32,"Cloud Infrastructure for Baker, Mason and White",Cloud Infrastructure project involving deploy dynamic architectures,Closed Lost,147062.96,2025-01-09,2025-06-10,0.0,Lisa Johnson
+69,32,"AI Implementation for Baker, Mason and White",AI Implementation project involving synthesize wireless action-items,Proposal,105318.01,2025-01-08,,0.59,Emma Davis
+70,34,Cloud Infrastructure for Farmer-Ryan Mart,Cloud Infrastructure project involving orchestrate clicks-and-mortar platforms,Closed Won,99533.6,2023-11-05,2024-01-06,1.0,Emma Davis
+71,35,Security Audit for George Group,Security Audit project involving revolutionize cutting-edge e-services,Needs Analysis,454879.27,2022-08-13,,0.27,Lisa Johnson
+72,35,Web Development for George Group,Web Development project involving reinvent plug-and-play markets,Negotiation,350775.5,2020-12-13,,0.83,Carlos Mendez
+73,35,Cloud Migration for George Group,Cloud Migration project involving engage interactive initiatives,Closed Lost,458829.61,2021-03-01,2021-04-17,0.0,Lisa Johnson
+74,36,Cloud Migration for Hickman LLC School,Cloud Migration project involving target global bandwidth,Closed Won,21118.03,2024-02-04,2024-03-18,1.0,Carlos Mendez
+75,36,Cloud Migration for Hickman LLC School,Cloud Migration project involving repurpose turn-key systems,Closed Won,24463.75,2024-11-06,2025-04-02,1.0,David Wilson
+76,37,AI Strategy for Allen PLC Tech,AI Strategy project involving re-intermediate cutting-edge schemas,Closed Won,37472.75,2022-09-15,2022-10-19,1.0,Lisa Johnson
+77,38,Cloud Infrastructure for Dennis Inc School,Cloud Infrastructure project involving grow granular info-mediaries,Closed Won,23976.41,2023-03-02,2023-05-30,1.0,David Wilson
+78,40,AI Implementation for Baker PLC,AI Implementation project involving grow back-end action-items,Closed Won,45018.06,2025-01-28,2025-06-01,1.0,Carlos Mendez
+79,41,Cloud Infrastructure for Hickman Ltd,Cloud Infrastructure project involving e-enable efficient deliverables,Closed Won,20857.87,2021-10-15,2021-12-07,1.0,David Wilson
+80,44,Security Audit for Brown Inc Stores,Security Audit project involving synthesize web-enabled niches,Closed Won,66857.94,2024-02-18,2024-04-03,1.0,Emma Davis
+81,44,Cloud Migration for Brown Inc Stores,Cloud Migration project involving grow intuitive technologies,Closed Won,41194.34,2023-03-26,2023-05-18,1.0,David Wilson
+82,44,AI Implementation for Brown Inc Stores,AI Implementation project involving incentivize real-time supply-chains,Closed Lost,103130.73,2024-01-26,2024-07-01,0.0,Thomas Brown
+83,45,"Web Development for Hall, Robinson and Jones",Web Development project involving harness strategic channels,Negotiation,226010.84,2024-03-27,,0.65,Carlos Mendez
+84,45,"AI Strategy for Hall, Robinson and Jones",AI Strategy project involving orchestrate bleeding-edge architectures,Needs Analysis,203898.53,2023-03-08,,0.35,Thomas Brown
+85,45,"Cloud Migration for Hall, Robinson and Jones",Cloud Migration project involving scale B2C e-tailers,Closed Won,410552.03,2023-11-07,2024-02-12,1.0,David Wilson
+86,45,"AI Strategy for Hall, Robinson and Jones",AI Strategy project involving optimize next-generation e-markets,Closed Won,372513.13,2022-10-27,2023-02-26,1.0,Carlos Mendez
+87,45,"Cloud Migration for Hall, Robinson and Jones",Cloud Migration project involving facilitate plug-and-play e-markets,Closed Won,439242.87,2024-02-10,2024-07-24,1.0,David Wilson
+88,48,Web Development for Lewis-Anderson,Web Development project involving streamline best-of-breed e-markets,Closed Lost,92621.6,2022-12-07,2023-03-05,0.0,Emma Davis
+89,48,AI Implementation for Lewis-Anderson,AI Implementation project involving synergize vertical networks,Closed Lost,543262.61,2023-02-21,2023-06-05,0.0,David Wilson
+90,48,AI Implementation for Lewis-Anderson,AI Implementation project involving synergize compelling synergies,Closed Won,193586.9,2024-01-01,2024-06-26,1.0,David Wilson
+91,48,Cloud Migration for Lewis-Anderson,Cloud Migration project involving seize seamless architectures,Closed Lost,308868.78,2024-01-26,2024-04-11,0.0,David Wilson
+92,48,Web Development for Lewis-Anderson,Web Development project involving iterate next-generation users,Needs Analysis,170313.68,2023-11-21,,0.33,Carlos Mendez
+93,49,"Cloud Infrastructure for Kennedy, Mueller and Aguirre",Cloud Infrastructure project involving extend magnetic models,Negotiation,72024.48,2024-01-06,,0.65,Emma Davis
+94,49,"Digital Transformation for Kennedy, Mueller and Aguirre",Digital Transformation project involving enhance real-time e-commerce,Closed Won,90220.3,2023-10-15,2024-04-08,1.0,Carlos Mendez
+95,49,"AI Strategy for Kennedy, Mueller and Aguirre",AI Strategy project involving synthesize proactive architectures,Closed Lost,122577.95,2022-08-18,2023-01-30,0.0,Carlos Mendez
+96,50,Cloud Migration for Davis Group Products,Cloud Migration project involving facilitate wireless communities,Closed Lost,370358.08,2023-09-20,2023-10-27,0.0,Emma Davis
+97,50,AI Strategy for Davis Group Products,AI Strategy project involving e-enable plug-and-play channels,Closed Won,652368.23,2024-01-30,2024-06-13,1.0,Emma Davis
+98,50,Cloud Migration for Davis Group Products,Cloud Migration project involving re-intermediate proactive interfaces,Closed Won,401957.45,2023-11-13,2024-03-18,1.0,Thomas Brown
+99,50,AI Implementation for Davis Group Products,AI Implementation project involving benchmark proactive infrastructures,Closed Won,428360.93,2022-11-24,2023-05-10,1.0,Carlos Mendez
+100,51,Cloud Infrastructure for Jenkins-Shields,Cloud Infrastructure project involving visualize cutting-edge channels,Closed Won,50988.43,2022-01-25,2022-07-12,1.0,Thomas Brown
+101,52,"Cloud Infrastructure for Valdez, Lucas and Brown",Cloud Infrastructure project involving cultivate plug-and-play ROI,Closed Won,291259.58,2020-10-18,2020-11-22,1.0,Carlos Mendez
+102,52,"AI Strategy for Valdez, Lucas and Brown",AI Strategy project involving streamline back-end architectures,Closed Won,225247.68,2020-10-04,2020-10-22,1.0,Lisa Johnson
+103,52,"Cloud Migration for Valdez, Lucas and Brown",Cloud Migration project involving harness killer bandwidth,Closed Won,379575.81,2021-10-06,2021-11-14,1.0,Thomas Brown
+104,52,"AI Implementation for Valdez, Lucas and Brown",AI Implementation project involving harness cross-platform architectures,Proposal,492602.65,2022-02-18,,0.44,Lisa Johnson
+105,52,"AI Strategy for Valdez, Lucas and Brown",AI Strategy project involving empower next-generation portals,Closed Lost,513438.84,2021-08-18,2022-02-04,0.0,Emma Davis
+106,53,Cloud Infrastructure for Mcbride-Rodriguez,Cloud Infrastructure project involving e-enable strategic info-mediaries,Closed Lost,44004.71,2023-10-18,2024-02-21,0.0,Emma Davis
+107,55,Cloud Migration for Ramirez and Sons,Cloud Migration project involving utilize scalable convergence,Closed Won,31671.77,2023-10-12,2024-01-29,1.0,Thomas Brown
+108,55,AI Implementation for Ramirez and Sons,AI Implementation project involving enhance innovative experiences,Closed Won,91609.74,2024-02-15,2024-06-19,1.0,Emma Davis
+109,56,Cloud Infrastructure for Morton-Chase Pharma,Cloud Infrastructure project involving integrate proactive action-items,Closed Won,130746.2,2023-04-29,2023-06-02,1.0,David Wilson
+110,56,Cloud Infrastructure for Morton-Chase Pharma,Cloud Infrastructure project involving aggregate vertical e-business,Closed Won,360063.68,2025-01-26,2025-03-16,1.0,Thomas Brown
+111,56,Web Development for Morton-Chase Pharma,Web Development project involving orchestrate web-enabled channels,Closed Won,138454.69,2023-12-20,2024-06-06,1.0,Carlos Mendez
+112,56,AI Implementation for Morton-Chase Pharma,AI Implementation project involving syndicate one-to-one networks,Closed Lost,529800.32,2023-12-01,2024-04-10,0.0,Emma Davis
+113,57,Cloud Migration for Pearson PLC Stores,Cloud Migration project involving architect plug-and-play portals,Proposal,90568.19,2023-01-26,,0.49,Emma Davis
+114,57,Security Audit for Pearson PLC Stores,Security Audit project involving revolutionize out-of-the-box communities,Needs Analysis,141718.67,2022-02-03,,0.31,Thomas Brown
+115,57,Cloud Infrastructure for Pearson PLC Stores,Cloud Infrastructure project involving expedite one-to-one communities,Closed Won,66484.99,2022-11-20,2022-12-08,1.0,Lisa Johnson
+116,57,Cloud Migration for Pearson PLC Stores,Cloud Migration project involving monetize sticky applications,Closed Won,85243.62,2021-11-10,2022-02-18,1.0,Emma Davis
+117,58,Cloud Migration for House and Sons,Cloud Migration project involving utilize extensible networks,Needs Analysis,104164.48,2024-12-19,,0.36,Carlos Mendez
+118,58,Cloud Migration for House and Sons,Cloud Migration project involving innovate enterprise interfaces,Negotiation,69704.1,2025-01-06,,0.69,Carlos Mendez
+119,58,AI Strategy for House and Sons,AI Strategy project involving unleash 24/365 partnerships,Closed Lost,89403.75,2024-10-23,2025-02-12,0.0,Emma Davis
+120,58,Cloud Migration for House and Sons,Cloud Migration project involving benchmark interactive platforms,Closed Won,99292.25,2024-10-23,2024-12-22,1.0,David Wilson
+121,59,AI Strategy for Tucker-Lewis Media,AI Strategy project involving scale seamless methodologies,Needs Analysis,30912.48,2024-12-12,,0.29,Carlos Mendez
+122,60,Cloud Migration for Martin Inc,Cloud Migration project involving expedite 24/7 networks,Needs Analysis,468504.44,2025-02-04,,0.27,David Wilson
+123,60,Cloud Migration for Martin Inc,Cloud Migration project involving generate revolutionary convergence,Initial Contact,297002.54,2025-01-17,,0.17,Thomas Brown
+124,60,Digital Transformation for Martin Inc,Digital Transformation project involving incubate cutting-edge web services,Proposal,303109.04,2025-01-10,,0.55,Emma Davis
+125,60,Cloud Migration for Martin Inc,Cloud Migration project involving disintermediate innovative mindshare,Needs Analysis,188692.06,2025-01-28,,0.3,Carlos Mendez
+126,60,AI Strategy for Martin Inc,AI Strategy project involving visualize cross-platform synergies,Negotiation,160822.95,2025-02-22,,0.66,Lisa Johnson
+127,61,Cloud Infrastructure for House-Glover,Cloud Infrastructure project involving iterate next-generation models,Needs Analysis,172740.06,2022-03-19,,0.31,Lisa Johnson
+128,61,Web Development for House-Glover,Web Development project involving transform user-centric relationships,Negotiation,97391.63,2021-12-24,,0.75,Emma Davis
+129,61,Cloud Infrastructure for House-Glover,Cloud Infrastructure project involving whiteboard ubiquitous eyeballs,Closed Lost,152951.99,2021-03-17,2021-07-31,0.0,Thomas Brown
+130,61,AI Implementation for House-Glover,AI Implementation project involving brand virtual deliverables,Closed Won,164603.36,2021-03-04,2021-06-14,1.0,Thomas Brown
+131,63,"AI Implementation for Higgins, Moore and Phillips",AI Implementation project involving visualize real-time e-business,Closed Won,81127.6,2021-12-04,2022-01-28,1.0,Carlos Mendez
+132,64,"Security Audit for Fitzgerald, Brown and Edwards",Security Audit project involving exploit compelling bandwidth,Negotiation,135218.55,2021-11-18,,0.79,Lisa Johnson
+133,64,"AI Strategy for Fitzgerald, Brown and Edwards",AI Strategy project involving brand real-time vortals,Closed Lost,472796.37,2022-02-03,2022-05-14,0.0,David Wilson
+134,64,"AI Strategy for Fitzgerald, Brown and Edwards",AI Strategy project involving iterate interactive infrastructures,Closed Lost,155326.88,2021-11-21,2022-03-21,0.0,Thomas Brown
+135,64,"Web Development for Fitzgerald, Brown and Edwards",Web Development project involving empower customized action-items,Closed Won,351440.66,2023-01-06,2023-04-06,1.0,Lisa Johnson
+136,64,"Cloud Infrastructure for Fitzgerald, Brown and Edwards",Cloud Infrastructure project involving engineer plug-and-play networks,Proposal,576355.98,2022-11-23,,0.57,Carlos Mendez
+137,65,"Cloud Infrastructure for Woods, Calhoun and Schmidt",Cloud Infrastructure project involving re-intermediate enterprise supply-chains,Closed Won,76259.26,2023-12-15,2024-03-06,1.0,David Wilson
+138,65,"Security Audit for Woods, Calhoun and Schmidt",Security Audit project involving utilize rich vortals,Closed Lost,131897.19,2023-12-29,2024-04-04,0.0,Lisa Johnson
+139,65,"Mobile App for Woods, Calhoun and Schmidt",Mobile App project involving reinvent holistic e-tailers,Closed Won,108946.93,2024-03-23,2024-04-29,1.0,Lisa Johnson
+140,66,"AI Implementation for Miller, Lopez and Larson",AI Implementation project involving seize back-end supply-chains,Proposal,422036.32,2025-02-20,,0.53,David Wilson
+141,66,"Cloud Infrastructure for Miller, Lopez and Larson",Cloud Infrastructure project involving empower efficient schemas,Proposal,365926.22,2025-01-12,,0.51,David Wilson
+142,66,"Web Development for Miller, Lopez and Larson",Web Development project involving implement dynamic infrastructures,Negotiation,116290.7,2024-12-31,,0.78,Carlos Mendez
+143,67,AI Implementation for Powell PLC,AI Implementation project involving incentivize transparent models,Needs Analysis,62947.79,2024-01-21,,0.23,Emma Davis
+144,67,Cloud Migration for Powell PLC,Cloud Migration project involving engage web-enabled info-mediaries,Closed Lost,61472.15,2024-01-26,2024-04-25,0.0,Thomas Brown
+145,68,"Cloud Infrastructure for Wheeler, Harvey and Barnes",Cloud Infrastructure project involving visualize holistic systems,Closed Won,509451.56,2024-10-20,2025-02-17,1.0,David Wilson
+146,68,"AI Implementation for Wheeler, Harvey and Barnes",AI Implementation project involving generate vertical infrastructures,Closed Won,416269.0,2024-11-24,2025-05-06,1.0,Thomas Brown
+147,68,"AI Implementation for Wheeler, Harvey and Barnes",AI Implementation project involving envisioneer magnetic interfaces,Proposal,356409.49,2025-02-18,,0.44,Emma Davis
+148,68,"Mobile App for Wheeler, Harvey and Barnes",Mobile App project involving scale interactive content,Closed Lost,311080.74,2023-10-18,2023-11-16,0.0,Thomas Brown
+149,68,"Cloud Infrastructure for Wheeler, Harvey and Barnes",Cloud Infrastructure project involving repurpose out-of-the-box info-mediaries,Negotiation,282435.38,2024-02-19,,0.87,Carlos Mendez
+150,69,"Cloud Infrastructure for Mills, Donovan and Harris",Cloud Infrastructure project involving engage cross-media e-commerce,Negotiation,78131.38,2025-02-05,,0.89,Emma Davis
+151,69,"Cloud Infrastructure for Mills, Donovan and Harris",Cloud Infrastructure project involving extend open-source convergence,Negotiation,55863.06,2024-12-25,,0.76,Carlos Mendez
+152,69,"Cloud Infrastructure for Mills, Donovan and Harris",Cloud Infrastructure project involving scale ubiquitous niches,Closed Won,41031.53,2024-11-11,2025-01-29,1.0,Thomas Brown
+153,70,AI Strategy for Allen-Foster,AI Strategy project involving monetize dot-com e-services,Negotiation,279990.84,2021-03-07,,0.62,Lisa Johnson
+154,70,Cloud Migration for Allen-Foster,Cloud Migration project involving embrace dynamic vortals,Closed Won,635028.15,2020-12-10,2020-12-25,1.0,Lisa Johnson
+155,70,Cloud Migration for Allen-Foster,Cloud Migration project involving embrace viral solutions,Closed Lost,143090.72,2021-12-08,2022-03-14,0.0,David Wilson
+156,70,Digital Transformation for Allen-Foster,Digital Transformation project involving architect compelling niches,Proposal,398956.17,2020-11-25,,0.58,Emma Davis
+157,71,"AI Implementation for Evans, Stewart and Walton",AI Implementation project involving drive front-end platforms,Proposal,637079.77,2021-10-12,,0.6,Thomas Brown
+158,71,"Cloud Infrastructure for Evans, Stewart and Walton",Cloud Infrastructure project involving e-enable dynamic technologies,Closed Lost,321137.93,2022-09-23,2022-12-30,0.0,Carlos Mendez
+159,71,"AI Strategy for Evans, Stewart and Walton",AI Strategy project involving enhance bricks-and-clicks ROI,Negotiation,364876.81,2021-10-12,,0.78,Emma Davis
+160,71,"Cloud Migration for Evans, Stewart and Walton",Cloud Migration project involving monetize value-added users,Closed Lost,232034.23,2022-03-06,2022-07-20,0.0,Carlos Mendez
+161,72,AI Implementation for Ellis PLC School,AI Implementation project involving enable efficient paradigms,Closed Won,526481.58,2024-11-27,2025-02-15,1.0,David Wilson
+162,72,AI Strategy for Ellis PLC School,AI Strategy project involving streamline distributed channels,Closed Lost,500197.7,2024-12-07,2025-03-10,0.0,Carlos Mendez
+163,72,AI Implementation for Ellis PLC School,AI Implementation project involving whiteboard holistic platforms,Closed Won,499611.79,2024-10-18,2025-04-05,1.0,Emma Davis
+164,72,AI Implementation for Ellis PLC School,AI Implementation project involving cultivate value-added networks,Proposal,213728.31,2025-01-13,,0.47,Thomas Brown
+165,73,Cloud Infrastructure for Medina PLC Banking,Cloud Infrastructure project involving envisioneer collaborative info-mediaries,Closed Won,150418.25,2020-10-14,2020-11-26,1.0,Emma Davis
+166,73,Cloud Migration for Medina PLC Banking,Cloud Migration project involving grow cross-platform ROI,Closed Won,106972.91,2020-06-22,2020-11-27,1.0,Carlos Mendez
+167,73,AI Implementation for Medina PLC Banking,AI Implementation project involving streamline dot-com info-mediaries,Needs Analysis,182152.8,2020-12-06,,0.27,David Wilson
+168,73,Web Development for Medina PLC Banking,Web Development project involving embrace innovative interfaces,Closed Lost,95240.58,2021-01-08,2021-07-06,0.0,Emma Davis
+169,74,Mobile App for Mahoney Inc,Mobile App project involving synthesize intuitive networks,Proposal,66488.57,2021-10-20,,0.57,Emma Davis
+170,74,Security Audit for Mahoney Inc,Security Audit project involving whiteboard scalable eyeballs,Closed Won,39645.55,2023-01-22,2023-06-24,1.0,Lisa Johnson

@@ -1,0 +1,76 @@
+client_id,name,industry,size,onboarding_date,account_manager,status
+1,Johnson LLC,Healthcare,Small,2024-02-27,Michael Rodriguez,Active
+2,Taylor Inc Wealth,Finance,Medium,2020-06-27,Sarah Chen,Active
+3,"Mcclain, Miller and Henderson",Technology,Medium,2021-03-23,Morgan Lee,Active
+4,Robinson PLC Software,Technology,Large,2022-05-09,Morgan Lee,Active
+5,Hoffman Ltd,Manufacturing,Small,2024-04-03,Alex Patel,Inactive
+6,"Gardner, Robinson and Lawrence",Education,Large,2020-11-14,Jamie Taylor,Active
+7,Wolfe LLC Wellness,Healthcare,Small,2020-07-17,Jamie Taylor,Active
+8,Lewis LLC,Manufacturing,Small,2024-02-03,Sarah Chen,Active
+9,James LLC Solar,Energy,Small,2021-08-23,Morgan Lee,Inactive
+10,"Baker, Williams and Stevens",Education,Medium,2023-12-13,Michael Rodriguez,Active
+11,Miller-Carter Industries,Manufacturing,Small,2024-11-09,Jamie Taylor,Active
+12,"Mcclure, Ward and Lee",Media,Large,2020-11-29,Michael Rodriguez,Active
+13,Stanley LLC Fabrication,Manufacturing,Small,2023-07-24,Michael Rodriguez,Active
+14,Delacruz Group Banking,Finance,Enterprise,2021-07-06,Morgan Lee,Prospective
+15,Reid-Diaz,Retail,Large,2024-09-22,Sarah Chen,Active
+16,Clark-Adams,Retail,Small,2024-07-06,Jamie Taylor,Active
+17,"Jones, Reid and Ferguson",Healthcare,Medium,2025-02-13,Jamie Taylor,Prospective
+18,Ford LLC Shop,Retail,Enterprise,2024-12-16,Alex Patel,Prospective
+19,"Hawkins, Cohen and Cameron",Finance,Enterprise,2020-10-12,Morgan Lee,Active
+20,Underwood LLC Fabrication,Manufacturing,Enterprise,2022-03-28,Michael Rodriguez,Active
+21,Jones-Gentry,Media,Small,2024-03-27,Sarah Chen,Active
+22,"Edwards, Rios and Foster",Finance,Large,2024-06-10,Morgan Lee,Active
+23,Thomas-Taylor,Healthcare,Enterprise,2022-02-20,Alex Patel,Active
+24,"Ryan, Burgess and Patterson",Manufacturing,Small,2023-10-25,Morgan Lee,Inactive
+25,Cox-Osborn,Manufacturing,Large,2020-08-16,Michael Rodriguez,Active
+26,"Snyder, Campos and Callahan",Media,Small,2024-01-18,Jamie Taylor,Inactive
+27,"Moore, Becker and Carlson",Finance,Medium,2024-11-17,Morgan Lee,Active
+28,Carlson-Mcdonald,Retail,Medium,2022-02-04,Morgan Lee,Inactive
+29,"Valencia, Smith and Le",Technology,Enterprise,2022-09-27,Jamie Taylor,Active
+30,"Potter, Mack and Peterson",Manufacturing,Medium,2020-04-28,Morgan Lee,Active
+31,Moore-Smith,Healthcare,Small,2024-02-07,Sarah Chen,Active
+32,"Baker, Mason and White",Finance,Large,2023-09-13,Morgan Lee,Active
+33,"Evans, Fowler and Lynch",Finance,Enterprise,2022-12-16,Alex Patel,Inactive
+34,Farmer-Ryan Mart,Retail,Medium,2022-03-28,Jamie Taylor,Prospective
+35,George Group,Media,Enterprise,2020-09-04,Sarah Chen,Active
+36,Hickman LLC School,Education,Small,2023-02-08,Michael Rodriguez,Active
+37,Allen PLC Tech,Technology,Medium,2021-04-13,Sarah Chen,Active
+38,Dennis Inc School,Education,Small,2021-05-02,Alex Patel,Active
+39,Anderson Group,Retail,Medium,2024-01-21,Morgan Lee,Inactive
+40,Baker PLC,Media,Medium,2024-05-25,Alex Patel,Active
+41,Hickman Ltd,Retail,Small,2020-07-17,Jamie Taylor,Active
+42,Marquez Group,Energy,Enterprise,2022-08-14,Sarah Chen,Inactive
+43,"Brooks, Lam and Hayes",Healthcare,Small,2022-04-04,Sarah Chen,Inactive
+44,Brown Inc Stores,Retail,Medium,2023-01-03,Alex Patel,Active
+45,"Hall, Robinson and Jones",Finance,Enterprise,2022-08-05,Sarah Chen,Active
+46,Perez Inc,Media,Small,2020-04-13,Morgan Lee,Active
+47,Palmer LLC,Technology,Medium,2024-03-23,Michael Rodriguez,Inactive
+48,Lewis-Anderson,Energy,Enterprise,2022-09-12,Alex Patel,Active
+49,"Kennedy, Mueller and Aguirre",Technology,Large,2022-02-15,Alex Patel,Active
+50,Davis Group Products,Manufacturing,Enterprise,2022-05-16,Morgan Lee,Active
+51,Jenkins-Shields,Media,Medium,2021-01-23,Sarah Chen,Active
+52,"Valdez, Lucas and Brown",Technology,Enterprise,2020-04-27,Alex Patel,Active
+53,Mcbride-Rodriguez,Finance,Medium,2022-11-06,Michael Rodriguez,Active
+54,Herrera and Sons,Healthcare,Small,2023-10-14,Alex Patel,Inactive
+55,Ramirez and Sons,Healthcare,Medium,2023-03-31,Morgan Lee,Active
+56,Morton-Chase Pharma,Healthcare,Enterprise,2023-03-03,Jamie Taylor,Active
+57,Pearson PLC Stores,Retail,Large,2021-06-27,Jamie Taylor,Active
+58,House and Sons,Media,Large,2024-03-19,Sarah Chen,Prospective
+59,Tucker-Lewis Media,Media,Small,2023-01-06,Jamie Taylor,Active
+60,Martin Inc,Finance,Enterprise,2024-12-09,Michael Rodriguez,Active
+61,House-Glover,Education,Large,2020-11-19,Morgan Lee,Active
+62,Horton-Cross,Manufacturing,Small,2023-09-29,Jamie Taylor,Inactive
+63,"Higgins, Moore and Phillips",Healthcare,Medium,2021-06-25,Sarah Chen,Active
+64,"Fitzgerald, Brown and Edwards",Finance,Enterprise,2021-07-31,Jamie Taylor,Active
+65,"Woods, Calhoun and Schmidt",Retail,Large,2022-11-01,Sarah Chen,Active
+66,"Miller, Lopez and Larson",Healthcare,Enterprise,2024-08-25,Sarah Chen,Active
+67,Powell PLC,Education,Medium,2023-07-28,Michael Rodriguez,Prospective
+68,"Wheeler, Harvey and Barnes",Media,Enterprise,2023-02-22,Sarah Chen,Active
+69,"Mills, Donovan and Harris",Finance,Medium,2024-09-05,Morgan Lee,Active
+70,Allen-Foster,Finance,Enterprise,2020-09-18,Jamie Taylor,Active
+71,"Evans, Stewart and Walton",Technology,Enterprise,2021-03-06,Sarah Chen,Active
+72,Ellis PLC School,Education,Enterprise,2024-03-14,Michael Rodriguez,Active
+73,Medina PLC Banking,Finance,Large,2020-02-20,Jamie Taylor,Active
+74,Mahoney Inc,Energy,Medium,2021-06-30,Sarah Chen,Active
+75,Mitchell-Kim Resources,Energy,Small,2021-03-31,Alex Patel,Active

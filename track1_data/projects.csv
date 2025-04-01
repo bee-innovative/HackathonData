@@ -1,0 +1,76 @@
+project_id,client_id,opportunity_id,name,type,status,start_date,end_date,estimated_budget,actual_cost,project_manager
+1,4,5.0,Cloud Infrastructure Project - Robinson PLC Software,Fixed Price,Completed,2024-05-02,2024-11-26,91265.83,90603.44,Sophia Martinez
+2,4,8.0,AI Strategy Project - Robinson PLC Software,Fixed Price,Completed,2023-07-05,2024-02-20,96247.56,99049.95,Sophia Martinez
+3,6,9.0,"Mobile App Project - Gardner, Robinson and Lawrence",Time & Materials,Completed,2021-07-08,2021-09-25,59473.32,50644.95,James Wilson
+4,6,10.0,"AI Implementation Project - Gardner, Robinson and Lawrence",Time & Materials,Completed,2022-04-17,2023-01-09,169536.5,164509.81,Sophia Martinez
+5,7,12.0,Web Development Project - Wolfe LLC Wellness,Time & Materials,Completed,2022-05-25,2022-08-21,13027.15,11592.65,Olivia Taylor
+6,10,14.0,"Digital Transformation Project - Baker, Williams and Stevens",Time & Materials,Completed,2024-03-29,2024-06-07,64277.3,68065.8,Benjamin Lee
+7,12,16.0,"AI Strategy Project - Mcclure, Ward and Lee",Fixed Price,Completed,2021-04-11,2022-03-13,172024.11,179175.52,James Wilson
+8,14,20.0,Cloud Migration Project - Delacruz Group Banking,Maintenance,Completed,2022-08-27,2022-12-16,318165.8,371886.19,Sophia Martinez
+9,15,23.0,AI Implementation Project - Reid-Diaz,Time & Materials,Planning,2025-03-14,2025-06-29,79032.59,,Olivia Taylor
+10,16,25.0,Cloud Migration Project - Clark-Adams,Time & Materials,Planning,2025-05-09,2025-08-11,14844.58,,Benjamin Lee
+11,19,34.0,"Cloud Migration Project - Hawkins, Cohen and Cameron",Time & Materials,Completed,2021-05-23,2021-10-04,199877.9,224256.02,Sophia Martinez
+12,19,35.0,"Web Development Project - Hawkins, Cohen and Cameron",Fixed Price,Completed,2022-06-08,2022-09-25,260015.47,225892.07,Robert Chen
+13,20,37.0,Cloud Migration Project - Underwood LLC Fabrication,Fixed Price,Completed,2023-06-25,2023-12-30,121634.95,156365.58,Olivia Taylor
+14,20,38.0,Web Development Project - Underwood LLC Fabrication,Fixed Price,Completed,2023-05-07,2023-07-29,262005.85,287826.48,Sophia Martinez
+15,20,39.0,Web Development Project - Underwood LLC Fabrication,Fixed Price,Completed,2023-07-09,2023-09-05,253678.54,241560.69,Benjamin Lee
+16,22,42.0,"Cloud Migration Project - Edwards, Rios and Foster",Fixed Price,Planning,2025-06-04,2026-01-24,176834.19,,Benjamin Lee
+17,23,45.0,AI Implementation Project - Thomas-Taylor,Time & Materials,Completed,2024-03-12,2024-08-08,509367.88,511190.28,James Wilson
+18,23,46.0,Mobile App Project - Thomas-Taylor,Time & Materials,Completed,2023-01-18,2023-04-14,374368.82,389801.67,Robert Chen
+19,25,50.0,AI Implementation Project - Cox-Osborn,Time & Materials,Completed,2022-06-04,2023-04-12,138920.6,138852.01,Robert Chen
+20,25,51.0,Cloud Migration Project - Cox-Osborn,Fixed Price,Completed,2021-05-09,2021-08-29,113082.13,121634.3,Sophia Martinez
+21,27,54.0,"AI Strategy Project - Moore, Becker and Carlson",Fixed Price,Planning,2025-06-13,2025-10-26,31482.82,,Benjamin Lee
+22,28,57.0,AI Implementation Project - Carlson-Mcdonald,Time & Materials,Completed,2024-02-13,2024-06-30,39678.06,38799.08,Sophia Martinez
+23,29,58.0,"Cloud Migration Project - Valencia, Smith and Le",Retainer,Completed,2023-03-12,2023-09-07,262037.18,291624.4,Sophia Martinez
+24,29,60.0,"AI Implementation Project - Valencia, Smith and Le",Fixed Price,Completed,2023-01-12,2023-07-25,500498.84,504436.09,Benjamin Lee
+25,29,61.0,"Cloud Migration Project - Valencia, Smith and Le",Maintenance,Completed,2024-01-07,2024-04-30,537204.79,512619.92,Olivia Taylor
+26,30,65.0,"Cloud Migration Project - Potter, Mack and Peterson",Maintenance,Completed,2021-05-29,2021-10-04,82126.57,78082.27,Sophia Martinez
+27,32,66.0,"Digital Transformation Project - Baker, Mason and White",Fixed Price,Completed,2024-08-14,2024-10-14,45637.9,50955.43,Olivia Taylor
+28,34,70.0,Cloud Infrastructure Project - Farmer-Ryan Mart,Fixed Price,Completed,2024-02-02,2024-04-21,87095.33,100257.62,Robert Chen
+29,36,74.0,Cloud Migration Project - Hickman LLC School,Time & Materials,Completed,2024-03-27,2024-07-01,18069.54,19989.34,James Wilson
+30,36,75.0,Cloud Migration Project - Hickman LLC School,Time & Materials,Planning,2025-04-24,2025-07-19,23822.35,,Robert Chen
+31,37,76.0,AI Strategy Project - Allen PLC Tech,Time & Materials,Completed,2022-11-09,2023-03-30,32662.92,35368.35,Robert Chen
+32,38,77.0,Cloud Infrastructure Project - Dennis Inc School,Time & Materials,Completed,2023-06-18,2023-08-29,23136.51,29782.5,Olivia Taylor
+33,40,78.0,AI Implementation Project - Baker PLC,Fixed Price,Planning,2025-06-17,2025-09-28,37190.27,,Olivia Taylor
+34,41,79.0,Cloud Infrastructure Project - Hickman Ltd,Time & Materials,Completed,2022-01-04,2022-05-26,17101.68,15722.66,Olivia Taylor
+35,44,80.0,Security Audit Project - Brown Inc Stores,Fixed Price,Completed,2024-04-15,2024-07-10,66748.8,67401.7,Olivia Taylor
+36,44,81.0,Cloud Migration Project - Brown Inc Stores,Fixed Price,Completed,2023-06-16,2023-08-16,35442.5,44404.46,James Wilson
+37,45,85.0,"Cloud Migration Project - Hall, Robinson and Jones",Fixed Price,Completed,2024-03-01,2024-08-02,383004.71,357331.22,Sophia Martinez
+38,45,86.0,"AI Strategy Project - Hall, Robinson and Jones",Fixed Price,Completed,2023-03-25,2023-10-09,354277.28,388003.66,Olivia Taylor
+39,45,87.0,"Cloud Migration Project - Hall, Robinson and Jones",Time & Materials,Completed,2024-08-22,2024-12-14,393281.09,354123.87,Sophia Martinez
+40,48,90.0,AI Implementation Project - Lewis-Anderson,Time & Materials,On Hold,2024-07-19,2025-05-09,181801.22,,Robert Chen
+41,49,94.0,"Digital Transformation Project - Kennedy, Mueller and Aguirre",Maintenance,Completed,2024-04-28,2024-08-24,73454.27,65834.22,Olivia Taylor
+42,50,97.0,AI Strategy Project - Davis Group Products,Fixed Price,Completed,2024-06-23,2024-11-16,636840.43,644909.39,Sophia Martinez
+43,50,98.0,Cloud Migration Project - Davis Group Products,Fixed Price,Completed,2024-03-29,2024-12-08,333050.13,432024.66,Benjamin Lee
+44,50,99.0,AI Implementation Project - Davis Group Products,Time & Materials,Completed,2023-06-05,2024-03-17,372775.76,366372.71,Sophia Martinez
+45,51,100.0,Cloud Infrastructure Project - Jenkins-Shields,Time & Materials,Completed,2022-07-23,2022-10-28,45302.04,51935.63,Sophia Martinez
+46,52,101.0,"Cloud Infrastructure Project - Valdez, Lucas and Brown",Fixed Price,Completed,2020-12-02,2021-04-06,267351.47,321083.31,Olivia Taylor
+47,52,102.0,"AI Strategy Project - Valdez, Lucas and Brown",Fixed Price,Completed,2020-11-11,2021-05-30,191360.81,212068.98,Robert Chen
+48,52,103.0,"Cloud Migration Project - Valdez, Lucas and Brown",Fixed Price,Completed,2021-12-10,2022-08-10,325290.46,386598.55,Robert Chen
+49,55,107.0,Cloud Migration Project - Ramirez and Sons,Retainer,Completed,2024-02-26,2024-05-19,29181.91,28661.83,Sophia Martinez
+50,55,108.0,AI Implementation Project - Ramirez and Sons,Time & Materials,Completed,2024-07-05,2024-11-24,89739.3,86231.73,Sophia Martinez
+51,56,109.0,Cloud Infrastructure Project - Morton-Chase Pharma,Fixed Price,Completed,2023-06-12,2023-11-10,120127.77,132120.49,Benjamin Lee
+52,56,110.0,Cloud Infrastructure Project - Morton-Chase Pharma,Retainer,Planning,2025-03-23,2025-09-21,297555.39,,Benjamin Lee
+53,56,111.0,Web Development Project - Morton-Chase Pharma,Fixed Price,Completed,2024-06-30,2024-10-25,123806.59,112722.14,Robert Chen
+54,57,115.0,Cloud Infrastructure Project - Pearson PLC Stores,Fixed Price,Completed,2022-12-17,2023-02-01,53717.57,53979.4,Robert Chen
+55,57,116.0,Cloud Migration Project - Pearson PLC Stores,Maintenance,Completed,2022-03-09,2022-06-26,80344.31,81516.95,Olivia Taylor
+56,58,120.0,Cloud Migration Project - House and Sons,Time & Materials,Active,2025-01-10,2025-03-06,85588.07,,Benjamin Lee
+57,61,130.0,AI Implementation Project - House-Glover,Maintenance,Completed,2021-06-25,2022-03-09,150988.59,153306.28,Robert Chen
+58,63,131.0,"AI Implementation Project - Higgins, Moore and Phillips",Time & Materials,Completed,2022-02-17,2022-07-20,68774.1,78449.62,Sophia Martinez
+59,64,135.0,"Web Development Project - Fitzgerald, Brown and Edwards",Fixed Price,Completed,2023-04-26,2023-06-09,323946.22,326758.12,James Wilson
+60,65,137.0,"Cloud Infrastructure Project - Woods, Calhoun and Schmidt",Time & Materials,Completed,2024-04-03,2024-08-20,61200.57,59380.37,Sophia Martinez
+61,65,139.0,"Mobile App Project - Woods, Calhoun and Schmidt",Time & Materials,Completed,2024-05-11,2024-08-12,98553.51,116643.57,James Wilson
+62,68,145.0,"Cloud Infrastructure Project - Wheeler, Harvey and Barnes",Fixed Price,Active,2025-02-28,2025-08-05,410552.37,,Olivia Taylor
+63,68,146.0,"AI Implementation Project - Wheeler, Harvey and Barnes",Fixed Price,Planning,2025-05-15,2025-11-18,381023.64,,Robert Chen
+64,69,152.0,"Cloud Infrastructure Project - Mills, Donovan and Harris",Time & Materials,Active,2025-02-21,2025-05-23,37477.27,,James Wilson
+65,70,154.0,Cloud Migration Project - Allen-Foster,Fixed Price,Completed,2021-01-04,2021-08-28,522670.54,611340.64,Benjamin Lee
+66,72,161.0,AI Implementation Project - Ellis PLC School,Fixed Price,Active,2025-02-22,2025-08-23,461511.59,,Sophia Martinez
+67,72,163.0,AI Implementation Project - Ellis PLC School,Fixed Price,Planning,2025-04-13,2025-12-30,471036.07,,Olivia Taylor
+68,73,165.0,Cloud Infrastructure Project - Medina PLC Banking,Fixed Price,Completed,2020-12-10,2021-06-24,129959.42,164573.06,Robert Chen
+69,73,166.0,Cloud Migration Project - Medina PLC Banking,Time & Materials,Completed,2020-12-07,2021-07-13,86705.23,101387.05,Sophia Martinez
+70,74,170.0,Security Audit Project - Mahoney Inc,Retainer,Completed,2023-07-02,2023-09-21,35404.22,30947.69,James Wilson
+71,1,,Performance Optimization - Johnson LLC,Fixed Price,Completed,2023-02-06,2023-03-21,3095.63,2910.31,Benjamin Lee
+72,74,,Content Migration - Mahoney Inc,Fixed Price,Completed,2022-08-08,2022-09-14,10100.29,10086.88,Sophia Martinez
+73,70,,Maintenance Contract - Allen-Foster,Maintenance,Completed,2020-11-04,2021-02-02,23647.95,21396.24,Benjamin Lee
+74,40,,Website Update - Baker PLC,Time & Materials,Completed,2020-01-03,2020-02-28,7515.3,7873.15,James Wilson
+75,19,,"Maintenance Contract - Hawkins, Cohen and Cameron",Maintenance,Completed,2021-02-24,2022-02-24,24662.31,24266.81,Robert Chen
